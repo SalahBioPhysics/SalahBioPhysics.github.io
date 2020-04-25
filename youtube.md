@@ -18,7 +18,7 @@ hi
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-0pky"><h3>Probability</h3><br><a href="https://youtu.be/v4CH7CK00zk"><img src="/img/v1.jpg" alt="V1"></a></th>
+    <th class="tg-0pky"><h3>Probability</h3><a href="https://youtu.be/v4CH7CK00zk"><img src="/img/v1.jpg" alt="V1"></a></th>
     <th class="tg-0pky"><a href="https://www.youtube.com/watch?v=lEp2gLYJQMI"><img src="/img/v2.jpg" alt="V2"></a></th>
     <th class="tg-0pky"><a href="https://www.youtube.com/watch?v=4bRTKSWgluo"><img src="/img/v3.jpg" alt="V3"></a></th>
   </tr>
@@ -42,7 +42,7 @@ hi
   
   </tr>
   <tr>
-    <td class="tg-0pky"><h1>Infinite Square Well</h1><br><a href="https://www.youtube.com/watch?v=Q8G0pTJB0fI"><img src="/img/v10.jpg" alt="V10"></a></td>
+    <td class="tg-0pky"><h4>Infinite Square Well</h1><br><a href="https://www.youtube.com/watch?v=Q8G0pTJB0fI"><img src="/img/v10.jpg" alt="V10"></a></td>
     <td class="tg-0pky"><a href=""><img src="/img/v11.jpg" alt="V11"></a></td>
     <td class="tg-0pky"><a href=""><img src="/img/v12.jpg" alt="V12"></a></td>
   </tr>
