@@ -18,7 +18,7 @@ hi
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-0pky"><h3>Probability</h3><br><a href="https://youtu.be/v4CH7CK00zk"><img src="/img/v1.jpg" alt="V1"></a></th>
+    <th class="tg-0pky"><h>Probability</h3><br><a href="https://youtu.be/v4CH7CK00zk"><img src="/img/v1.jpg" alt="V1"></a></th>
     <th class="tg-0pky"><a href="https://www.youtube.com/watch?v=lEp2gLYJQMI"><img src="/img/v2.jpg" alt="V2"></a></th>
     <th class="tg-0pky"><a href="https://www.youtube.com/watch?v=4bRTKSWgluo"><img src="/img/v3.jpg" alt="V3"></a></th>
   </tr>
