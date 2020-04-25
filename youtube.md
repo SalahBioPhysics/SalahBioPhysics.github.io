@@ -5,7 +5,7 @@ layout: page
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -48,7 +48,7 @@ layout: page
   <tr>
     <td class="tg-0pky">The Harmonic Oscillator 2<a href=""><img src="/img/v13.jpg" alt="V13"></a></td>
     <td class="tg-0pky">The Harmonic Oscillator 3<a href=""><img src="/img/v14.jpg" alt="V14"></a></td>
-    <td class="tg-0pky">The Schrodinger Equation<a href=""><img src="/img/v15.jpg" alt="V15"></a></td>
+    <td class="tg-0pky">The Hydrogen Atom<a href=""><img src="/img/v15.jpg" alt="V15"></a></td>
   </tr>
   <tr>
   
