@@ -23,14 +23,14 @@ layout: page
   <tr>
     <td class="tg-0pky">Probability 4<a href="https://www.youtube.com/watch?v=khGwXSPbBdY"><img src="/img/v4.jpg" alt="V4"></a></td>
     <td class="tg-0pky">Gaussian<a href="https://www.youtube.com/watch?v=3SZQstdxfb4"><img src="/img/v5.jpg" alt="V5"></a></td>
-    <td class="tg-0pky"><a href="https://www.youtube.com/watch?v=GJZd0g-hu-Y"><img src="/img/v6.jpg" alt="V6"></a></td>
+    <td class="tg-0pky">The Wave Function<a href="https://www.youtube.com/watch?v=GJZd0g-hu-Y"><img src="/img/v6.jpg" alt="V6"></a></td>
   </tr>
   <tr>
   
   </tr>
   <tr>
-    <td class="tg-0pky">The Wave Function<a href="https://www.youtube.com/watch?v=EsqMOghM3KQ&t=1s"><img src="/img/v7.jpg" alt="V7"></a></td>
-    <td class="tg-0pky">Time Dependent Schrodinger Equation<a href="https://www.youtube.com/watch?v=7d_zRb4yjm8"><img src="/img/v8.jpg" alt="V8"></a></td>
+    <td class="tg-0pky">Time Dependent Schrodinger Equation<a href="https://www.youtube.com/watch?v=EsqMOghM3KQ&t=1s"><img src="/img/v7.jpg" alt="V7"></a></td>
+    <td class="tg-0pky">Infinite Square Well<a href="https://www.youtube.com/watch?v=7d_zRb4yjm8"><img src="/img/v8.jpg" alt="V8"></a></td>
     <td class="tg-0pky">Properties of the Wave Function<a href="https://www.youtube.com/watch?v=HBNRS48YD3k"><img src="/img/v9.jpg" alt="V9"></a></td>
   </tr>
   <tr>
