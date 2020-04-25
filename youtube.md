@@ -28,17 +28,18 @@ layout: page
   <tr>
   
   </tr>
-  <tr>
-    <td class="tg-0pky">Time Dependent Schrodinger Equation<a href="https://www.youtube.com/watch?v=EsqMOghM3KQ&t=1s"><img src="/img/v7.jpg" alt="V7"></a></td>
-    <td class="tg-0pky">Infinite Square Well<a href="https://www.youtube.com/watch?v=7d_zRb4yjm8"><img src="/img/v8.jpg" alt="V8"></a></td>
-    <td class="tg-0pky">Properties of the Wave Function<a href="https://www.youtube.com/watch?v=HBNRS48YD3k"><img src="/img/v9.jpg" alt="V9"></a></td>
+  <td class="tg-0pky">Properties of the Wave Function<a href="https://www.youtube.com/watch?v=HBNRS48YD3k"><img src="/img/v9.jpg" alt="V9"></a></td>
   </tr>
   <tr>
+  <tr>
+    <td class="tg-0pky">Time Dependent Schrodinger Equation<a href="https://www.youtube.com/watch?v=EsqMOghM3KQ&t=1s"><img src="/img/v7.jpg" alt="V7"></a></td>
+    <td class="tg-0pky">Infinite Square Well 1<a href="https://www.youtube.com/watch?v=7d_zRb4yjm8"><img src="/img/v8.jpg" alt="V8"></a></td>
+    
   
   </tr>
   <tr>
-    <td class="tg-0pky">Infinite Square Well 1<a href="https://www.youtube.com/watch?v=Q8G0pTJB0fI"><img src="/img/v10.jpg" alt="V10"></a></td>
-    <td class="tg-0pky">Infinite Square Well 2<a href=""><img src="/img/v11.jpg" alt="V11"></a></td>
+    <td class="tg-0pky">Infinite Square Well 2<a href="https://www.youtube.com/watch?v=Q8G0pTJB0fI"><img src="/img/v10.jpg" alt="V10"></a></td>
+    <td class="tg-0pky">Infinite Square Well 3<a href=""><img src="/img/v11.jpg" alt="V11"></a></td>
     <td class="tg-0pky">The Harmonic Oscillator 1<a href=""><img src="/img/v12.jpg" alt="V12"></a></td>
   </tr>
   <tr>
