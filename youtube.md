@@ -42,7 +42,7 @@ hi
   
   </tr>
   <tr>
-    <td class="tg-0pky">Infinite Square Well<br><a href="https://www.youtube.com/watch?v=Q8G0pTJB0fI"><img src="/img/v10.jpg" alt="V10"></a></td>
+    <td class="tg-0pky"><h1>Infinite Square Well</h1><br><a href="https://www.youtube.com/watch?v=Q8G0pTJB0fI"><img src="/img/v10.jpg" alt="V10"></a></td>
     <td class="tg-0pky"><a href=""><img src="/img/v11.jpg" alt="V11"></a></td>
     <td class="tg-0pky"><a href=""><img src="/img/v12.jpg" alt="V12"></a></td>
   </tr>
