@@ -4,10 +4,6 @@ layout: page
 
 
 
-[![v1](img/v1.jpg)](https://youtu.be/v4CH7CK00zk)|[![v2](img/v1.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=lEp2gLYJQMI)|[![v3](img/v3.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=4bRTKSWgluo)
---|--|--
-ee|ff|gg 
-
 
 hi hi
 
@@ -22,9 +18,9 @@ hi hi
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
+    <th class="tg-0pky">[![v1](img/v1.jpg)](https://youtu.be/v4CH7CK00zk)</th>
+    <th class="tg-0pky">[![v2](img/v1.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=lEp2gLYJQMI)</th>
+    <th class="tg-0pky">[![v3](img/v3.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=4bRTKSWgluo)</th>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
