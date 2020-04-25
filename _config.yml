@@ -24,8 +24,8 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  Projects:
+    - YouTube: "https://www.youtube.com/channel/UCRBOH7FB5GnY9LjanP87w9g?view_as=subscriber"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "https://github.com/SalahBioPhysics"
