@@ -23,9 +23,9 @@ hi
     <th class="tg-0pky"><a href="https://www.youtube.com/watch?v=4bRTKSWgluo"><img src="/img/v3.jpg" alt="V3"></a></th>
   </tr>
   <tr>
-    <td class="tg-0pky"><a href=""><img src="/img/v4.jpg" alt="V4"></a></td>
-    <td class="tg-0pky"><a href=""><img src="/img/v5.jpg" alt="V5"></a></td>
-    <td class="tg-0pky"><a href=""><img src="/img/v6.jpg" alt="V6"></a></td>
+    <td class="tg-0pky"><a href="https://www.youtube.com/watch?v=khGwXSPbBdY"><img src="/img/v4.jpg" alt="V4"></a></td>
+    <td class="tg-0pky"><a href="https://www.youtube.com/watch?v=3SZQstdxfb4"><img src="/img/v5.jpg" alt="V5"></a></td>
+    <td class="tg-0pky"><a href="https://www.youtube.com/watch?v=GJZd0g-hu-Y"><img src="/img/v6.jpg" alt="V6"></a></td>
   </tr>
   <tr>
     <td class="tg-0pky"><a href=""><img src="/img/v7.jpg" alt="V7"></a></td>
