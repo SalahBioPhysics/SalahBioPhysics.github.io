@@ -24,11 +24,9 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects:
-    - YouTube: "https://www.youtube.com/channel/UCRBOH7FB5GnY9LjanP87w9g?view_as=subscriber"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Work Experience: "Work_Experience"
+  YouTube: "youtube"
+  Work Experience: "work_experience"
+  Publications: "publications"
   Author's home: "https://github.com/SalahBioPhysics"
 
 # Image to show in the navigation bar - image must be a square (width = height)
