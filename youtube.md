@@ -69,17 +69,17 @@ layout: page
   <tr>
     <td class="tg-0pky">Step Function Potential<a href="https://www.youtube.com/watch?v=yXZOKuKmPXE"><img src="/img/v28.jpg" alt="V28"></a></td>
     <td class="tg-0pky">Abrupt Potential Drop<a href="https://www.youtube.com/watch?v=Tnu4CEqbXTs"><img src="/img/v29.jpg" alt="V29"></a></td>
-    <td class="tg-0pky"><a href=""><img src="/img/v30.jpg" alt="V30"></a></td>
+    <td class="tg-0pky">Infinite Square Well 5<a href="https://www.youtube.com/watch?v=eTBY_7to5js"><img src="/img/v30.jpg" alt="V30"></a></td>
   </tr>
   
   <tr>
-    <td class="tg-0pky"><a href=""><img src="/img/v31.jpg" alt="V31"></a></td>
-    <td class="tg-0pky"><a href=""><img src="/img/v32.jpg" alt="V32"></a></td>
-    <td class="tg-0pky"><a href=""><img src="/img/v33.jpg" alt="V33"></a></td>
+    <td class="tg-0pky">Simple Harmonic Oscillator<a href="https://www.youtube.com/watch?v=io7eQ0N9h8E"><img src="/img/v31.jpg" alt="V31"></a></td>
+    <td class="tg-0pky">Gaussian Wave Paket<a href="https://www.youtube.com/watch?v=AZTQvYBl0sc"><img src="/img/v32.jpg" alt="V32"></a></td>
+    <td class="tg-0pky">Delta-Function Well<a href="https://www.youtube.com/watch?v=HsimBYIn5RY"><img src="/img/v33.jpg" alt="V33"></a></td>
   </tr>
   
   <tr>
-    <td class="tg-0pky"><a href=""><img src="/img/v34.jpg" alt="V34"></a></td>
+    <td class="tg-0pky">Bra–ket notation<a href="https://www.youtube.com/watch?v=SvA2BpFIb78"><img src="/img/v34.jpg" alt="V34"></a></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
