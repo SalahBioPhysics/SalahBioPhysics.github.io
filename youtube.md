@@ -39,13 +39,13 @@ layout: page
   <tr>
     <td class="tg-0pky">The Harmonic Oscillator 2<a href="https://www.youtube.com/watch?v=avVqub5ScUk"><img src="/img/v13.jpg" alt="V13"></a></td>
     <td class="tg-0pky">The Harmonic Oscillator 3<a href="https://www.youtube.com/watch?v=QLPY42uBnlI"><img src="/img/v14.jpg" alt="V14"></a></td>
-    <td class="tg-0pky">The Hydrogen Atom<a href=""><img src="/img/v15.jpg" alt="V15"></a></td>
+    <td class="tg-0pky">The Hydrogen Atom<a href="https://www.youtube.com/watch?v=B0ITDFx6YiU"><img src="/img/v15.jpg" alt="V15"></a></td>
   </tr>
  
   <tr>
-    <td class="tg-0pky"><a href=""><img src="/img/v16.jpg" alt="V16"></a></td>
-    <td class="tg-0pky"><a href=""><img src="/img/v17.jpg" alt="V17"></a></td>
-    <td class="tg-0pky"><a href=""><img src="/img/v18.jpg" alt="V18"></a></td>
+    <td class="tg-0pky">The Free Particle 1<a href="https://www.youtube.com/watch?v=ZvgDAbLU3hQ"><img src="/img/v16.jpg" alt="V16"></a></td>
+    <td class="tg-0pky">The Free Particle 2<a href="https://www.youtube.com/watch?v=ciyxJm2x2AI"><img src="/img/v17.jpg" alt="V17"></a></td>
+    <td class="tg-0pky">The Free Particle 3<a href=""><img src="/img/v18.jpg" alt="V18"></a></td>
   </tr>
  
   <tr>
