@@ -55,13 +55,13 @@ layout: page
   </tr>
   
   <tr>
-    <td class="tg-0pky"><a href=""><img src="/img/v22.jpg" alt="V22"></a></td>
-    <td class="tg-0pky"><a href=""><img src="/img/v23.jpg" alt="V23"></a></td>
-    <td class="tg-0pky"><a href=""><img src="/img/v24.jpg" alt="V24"></a></td>
+    <td class="tg-0pky">Step Function<a href=""><img src="/img/v22.jpg" alt="V22"></a></td>
+    <td class="tg-0pky">Uncertainty Principle<a href="https://www.youtube.com/watch?v=BshpkQrWBtY"><img src="/img/v23.jpg" alt="V23"></a></td>
+    <td class="tg-0pky">The Finite Square Well 1<a href="https://www.youtube.com/watch?v=6j4h1f9Ow_I"><img src="/img/v24.jpg" alt="V24"></a></td>
   </tr>
   
   <tr>
-    <td class="tg-0pky"><a href=""><img src="/img/v25.jpg" alt="V25"></a></td>
+    <td class="tg-0pky">The Finite Square Well 2<a href="https://www.youtube.com/watch?v=r1ZShcBpEv8"><img src="/img/v25.jpg" alt="V25"></a></td>
     <td class="tg-0pky"><a href=""><img src="/img/v26.jpg" alt="V26"></a></td>
     <td class="tg-0pky"><a href=""><img src="/img/v27.jpg" alt="V27"></a></td>
   </tr>
