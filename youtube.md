@@ -45,13 +45,13 @@ layout: page
   <tr>
     <td class="tg-0pky">The Free Particle 1<a href="https://www.youtube.com/watch?v=ZvgDAbLU3hQ"><img src="/img/v16.jpg" alt="V16"></a></td>
     <td class="tg-0pky">The Free Particle 2<a href="https://www.youtube.com/watch?v=ciyxJm2x2AI"><img src="/img/v17.jpg" alt="V17"></a></td>
-    <td class="tg-0pky">The Free Particle 3<a href=""><img src="/img/v18.jpg" alt="V18"></a></td>
+    <td class="tg-0pky">The Free Particle 3<a href="https://www.youtube.com/watch?v=Vi42R3F_Ccg"><img src="/img/v18.jpg" alt="V18"></a></td>
   </tr>
  
   <tr>
-    <td class="tg-0pky"><a href=""><img src="/img/v19.jpg" alt="V19"></a></td>
-    <td class="tg-0pky"><a href=""><img src="/img/v20.jpg" alt="V20"></a></td>
-    <td class="tg-0pky"><a href=""><img src="/img/v21.jpg" alt="V21"></a></td>
+    <td class="tg-0pky">Gaussian Wave Paket<a href="https://www.youtube.com/watch?v=Y61cA0hvgPg"><img src="/img/v19.jpg" alt="V19"></a></td>
+    <td class="tg-0pky">Dirac Delta Function<a href="https://www.youtube.com/watch?v=8cQFH17T_eg"><img src="/img/v20.jpg" alt="V20"></a></td>
+    <td class="tg-0pky">Dirac Delta Integrals<a href="https://www.youtube.com/watch?v=dMIYTXgkZPE"><img src="/img/v21.jpg" alt="V21"></a></td>
   </tr>
   
   <tr>
