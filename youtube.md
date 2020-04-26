@@ -32,13 +32,13 @@ layout: page
   
   <tr>
     <td class="tg-0pky">Infinite Square Well 2<a href="https://www.youtube.com/watch?v=Q8G0pTJB0fI"><img src="/img/v10.jpg" alt="V10"></a></td>
-    <td class="tg-0pky">Infinite Square Well 3<a href=""><img src="/img/v11.jpg" alt="V11"></a></td>
-    <td class="tg-0pky">The Harmonic Oscillator 1<a href=""><img src="/img/v12.jpg" alt="V12"></a></td>
+    <td class="tg-0pky">Infinite Square Well 3<a href="https://www.youtube.com/watch?v=ijKZGgNN8Hk"><img src="/img/v11.jpg" alt="V11"></a></td>
+    <td class="tg-0pky">The Harmonic Oscillator 1<a href="https://www.youtube.com/watch?v=NT_c1BxnDXM"><img src="/img/v12.jpg" alt="V12"></a></td>
   </tr>
  
   <tr>
-    <td class="tg-0pky">The Harmonic Oscillator 2<a href=""><img src="/img/v13.jpg" alt="V13"></a></td>
-    <td class="tg-0pky">The Harmonic Oscillator 3<a href=""><img src="/img/v14.jpg" alt="V14"></a></td>
+    <td class="tg-0pky">The Harmonic Oscillator 2<a href="https://www.youtube.com/watch?v=avVqub5ScUk"><img src="/img/v13.jpg" alt="V13"></a></td>
+    <td class="tg-0pky">The Harmonic Oscillator 3<a href="https://www.youtube.com/watch?v=QLPY42uBnlI"><img src="/img/v14.jpg" alt="V14"></a></td>
     <td class="tg-0pky">The Hydrogen Atom<a href=""><img src="/img/v15.jpg" alt="V15"></a></td>
   </tr>
  
