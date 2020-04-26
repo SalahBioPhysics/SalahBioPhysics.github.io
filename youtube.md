@@ -62,13 +62,13 @@ layout: page
   
   <tr>
     <td class="tg-0pky">The Finite Square Well 2<a href="https://www.youtube.com/watch?v=r1ZShcBpEv8"><img src="/img/v25.jpg" alt="V25"></a></td>
-    <td class="tg-0pky"><a href=""><img src="/img/v26.jpg" alt="V26"></a></td>
-    <td class="tg-0pky"><a href=""><img src="/img/v27.jpg" alt="V27"></a></td>
+    <td class="tg-0pky">The Finite Square Well 3<a href="https://www.youtube.com/watch?v=TrXYyziMyOo"><img src="/img/v26.jpg" alt="V26"></a></td>
+    <td class="tg-0pky">The Finite Square Well 4<a href="https://www.youtube.com/watch?v=7-Dl4C1nVuA"><img src="/img/v27.jpg" alt="V27"></a></td>
   </tr>
   
   <tr>
-    <td class="tg-0pky"><a href=""><img src="/img/v28.jpg" alt="V28"></a></td>
-    <td class="tg-0pky"><a href=""><img src="/img/v29.jpg" alt="V29"></a></td>
+    <td class="tg-0pky">Step Function Potential<a href="https://www.youtube.com/watch?v=yXZOKuKmPXE"><img src="/img/v28.jpg" alt="V28"></a></td>
+    <td class="tg-0pky">Abrupt Potential Drop<a href="https://www.youtube.com/watch?v=Tnu4CEqbXTs"><img src="/img/v29.jpg" alt="V29"></a></td>
     <td class="tg-0pky"><a href=""><img src="/img/v30.jpg" alt="V30"></a></td>
   </tr>
   
