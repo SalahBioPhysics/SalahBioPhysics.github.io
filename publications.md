@@ -17,7 +17,7 @@ subtitle:
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-0pky">Probability 1<a href="https://youtu.be/v4CH7CK00zk"><img src="/img/v1.jpg" alt="V1"></a></th>
+    <th class="tg-0pky" width="30%">Probability 1<a href="https://youtu.be/v4CH7CK00zk"><img src="/img/v1.jpg" alt="V1"></a></th>
     <th class="tg-0pky">Probability 2<a href="https://www.youtube.com/watch?v=lEp2gLYJQMI"><img src="/img/v2.jpg" alt="V2"></a></th>
   </tr>
  
