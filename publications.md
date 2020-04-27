@@ -18,7 +18,7 @@ subtitle:
 
 <table class="tg">
   <tr>
-    <th class="tg-0pky" width="30%" height="298px"><a href="https://www.ncbi.nlm.nih.gov/pubmed/28263965"><img src="/img/p1.jpg" alt="V1"></a></th>
+    <th class="tg-0pky" width="30%"><a href="https://www.ncbi.nlm.nih.gov/pubmed/28263965"><img src="/img/p1.jpg" alt="V1"></a></th>
     <th class="tg-0pky" width="70%"><b>L-2-Hydroxyglutarate production arises from noncanonical enzyme function at acidic pH <br>Nat Chem Biol. 2017 May;13(5):494-500</b></th>
   </tr>
  
