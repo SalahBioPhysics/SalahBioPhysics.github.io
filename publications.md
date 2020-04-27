@@ -19,12 +19,12 @@ subtitle:
 <table class="tg">
   <tr>
     <th class="tg-0pky" width="30%"><a href="https://www.ncbi.nlm.nih.gov/pubmed/28263965"><img src="/img/p1.png" alt="V1"></a></th>
-    <th class="tg-0pky" width="70%">L-2-Hydroxyglutarate production arises from noncanonical enzyme function at acidic pH <br>Nat Chem Biol. 2017 May;13(5):494-500</th>
+    <th class="tg-0pky" width="70%"><b>L-2-Hydroxyglutarate production arises from noncanonical enzyme function at acidic pH </b><br>Nat Chem Biol. 2017 May;13(5):494-500</th>
   </tr>
  
   <tr>
     <td class="tg-0pky" width="30%"><a href="https://www.biorxiv.org/content/10.1101/291922v1"><img src="/img/p2.png" alt="V4"></a></td>
-    <td class="tg-0pky" width="70%">Functional Pathways of Biomolecules Retrieved from Single-particle Snapshots<br>pre-print</td>
+    <td class="tg-0pky" width="70%"><b>Functional Pathways of Biomolecules Retrieved from Single-particle Snapshots</b><br>pre-print</td>
   </tr>
 
 
