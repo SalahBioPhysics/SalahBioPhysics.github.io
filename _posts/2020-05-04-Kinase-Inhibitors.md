@@ -2,7 +2,7 @@
 layout: post
 title: Kinase Inhibitors
 subtitle: A list of FDA approved kinase Inhibitors
-image: /img/image-asset.png
+image: /img/main.jpg
 comments: true
 ---
 
