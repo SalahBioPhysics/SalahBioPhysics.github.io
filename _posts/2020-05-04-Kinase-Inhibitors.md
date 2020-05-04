@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Kinase Inhibitors
-subtitle: Each post also has a subtitle
+subtitle: A list of FDA approved kinase Inhibitors
+image: /img/image-asset.png
 comments: true
 ---
 
@@ -15,8 +16,8 @@ comments: true
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-0pky">Probability 1<a href="https://youtu.be/v4CH7CK00zk"><img src="/img/v1.jpg" alt="V1"></a></th>
-    <th class="tg-0pky">Probability 2<a href="https://www.youtube.com/watch?v=lEp2gLYJQMI"><img src="/img/v2.jpg" alt="V2"></a></th>
+    <th class="tg-0pky">Afatinib<a href="https://youtu.be/v4CH7CK00zk"><img src="/img/v1.jpg" alt="V1"></a></th>
+    <th class="tg-0pky">Alectinib<a href="https://www.youtube.com/watch?v=lEp2gLYJQMI"><img src="/img/v2.jpg" alt="V2"></a></th>
     <th class="tg-0pky">Probability 3<a href="https://www.youtube.com/watch?v=4bRTKSWgluo"><img src="/img/v3.jpg" alt="V3"></a></th>
   </tr>
  
