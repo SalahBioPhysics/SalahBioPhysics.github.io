@@ -38,6 +38,10 @@ comments: true
   <tr>
     <th class="tg-0pky">Crizotinib<img src="/img/Crizotinib.jpg" alt="p6"></th>
   </tr>
+  
+  <tr>
+    <th class="tg-0pky">Dabrafenib<img src="/img/Dabrafenib.jpg" alt="p7"></th>
+  </tr>
  
   
 
