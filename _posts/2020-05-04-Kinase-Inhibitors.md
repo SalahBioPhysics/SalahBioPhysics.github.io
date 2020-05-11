@@ -42,6 +42,10 @@ comments: true
   <tr>
     <th class="tg-0pky">Dabrafenib<img src="/img/Dabrafenib.jpg" alt="p7"></th>
   </tr>
+  
+  <tr>
+    <th class="tg-0pky">Dasatinib<img src="/img/Dasatinib0.jpg" alt="p7"></br><img src="/img/Dasatinib00.jpg" alt="p7"></th>
+  </tr>
  
   
 
