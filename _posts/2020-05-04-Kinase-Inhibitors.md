@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kinase Inhibitors
-subtitle: A list of FDA approved kinase Inhibitors
+subtitle: A list of FDA approved kinase Inhibitors 
 image: /img/main.jpg
 comments: true
 ---
@@ -21,6 +21,10 @@ comments: true
   
   <tr>
     <th class="tg-0pky">Alectinib<img src="/img/Alectinib.jpg" alt="p1"></th>
+  </tr>
+  
+  <tr>
+    <th class="tg-0pky">Axitinib<img src="/img/Axitinib.jpg" alt="p1"></th>
   </tr>
  
   
