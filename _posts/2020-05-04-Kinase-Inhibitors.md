@@ -26,6 +26,10 @@ comments: true
   <tr>
     <th class="tg-0pky">Axitinib<img src="/img/Axitinib.jpg" alt="p1"></th>
   </tr>
+  
+  <tr>
+    <th class="tg-0pky">Bosutinib<img src="/img/Bosutinib.jpg" alt="p1"></th>
+  </tr>
  
   
 
