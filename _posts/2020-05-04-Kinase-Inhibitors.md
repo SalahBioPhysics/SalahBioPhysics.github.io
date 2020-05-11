@@ -44,7 +44,7 @@ comments: true
   </tr>
   
   <tr>
-    <th class="tg-0pky">Dasatinib<img src="/img/Dasatinib0.jpg" alt="p7"></br><img src="/img/Dasatinib00.jpg" alt="p7"></br><img src="/img/Dasatinib000.jpg" alt="p7"></br><img src="/img/Dasatinib0000.jpg" alt="p7"></br><img src="/img/Dasatinib00000.jpg" alt="p7"></br></th>
+    <th class="tg-0pky">Dasatinib<img src="/img/Dasatinib0.jpg" alt="p7"><img src="/img/Dasatinib00.jpg" alt="p7"><img src="/img/Dasatinib000.jpg" alt="p7"><img src="/img/Dasatinib0000.jpg" alt="p7"><img src="/img/Dasatinib00000.jpg" alt="p7"></th>
   </tr>
  
   
