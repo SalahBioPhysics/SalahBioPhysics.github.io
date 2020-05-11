@@ -34,6 +34,10 @@ comments: true
   <tr>
     <th class="tg-0pky">Ceritinib<img src="/img/Ceritinib.jpg" alt="p5"></th>
   </tr>
+  
+  <tr>
+    <th class="tg-0pky">Crizotinib<img src="/img/Crizotinib.jpg" alt="p6"></th>
+  </tr>
  
   
 
