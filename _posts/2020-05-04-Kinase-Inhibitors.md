@@ -16,8 +16,8 @@ comments: true
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-0pky">Afatinib<img src="/img/afatinib.jpg" alt="V1"></th>
-   
+    <th class="tg-0pky">Afatinib<img src="/img/afatinib.jpg" alt="p1"></th>
+    <th class="tg-0pky">Alectinib<img src="/img/Alectinib.jpg" alt="p1"></th>
   </tr>
  
   
