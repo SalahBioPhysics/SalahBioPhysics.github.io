@@ -48,7 +48,7 @@ comments: true
   </tr>
   
   <tr>
-    <th class="tg-0pky">Gefitinib<img src="/img/Gefitinib0.jpg" alt="p9"></th><th class="tg-0pky">Gefitinib<img src="/img/Gefitinib00.jpg" alt="p9"></th>
+    <th class="tg-0pky">Gefitinib<img src="/img/Gefitinib0.jpg" alt="p9"><img src="/img/Gefitinib00.jpg" alt="p9"></th>
   </tr>
  
   
