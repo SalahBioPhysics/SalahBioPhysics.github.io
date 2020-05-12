@@ -50,6 +50,10 @@ comments: true
   <tr>
     <th class="tg-0pky">Gefitinib<img src="/img/Gefitinib0.jpg" alt="p9"><img src="/img/Gefitinib00.jpg" alt="p9"></th>
   </tr>
+  
+   <tr>
+    <th class="tg-0pky">Imatinib<img src="/img/Imatinib0.jpg" alt="p9"><img src="/img/Imatinib00.jpg" alt="p9"></th>
+  </tr>
  
   
 
