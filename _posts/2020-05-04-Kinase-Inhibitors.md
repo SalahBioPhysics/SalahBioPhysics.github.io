@@ -55,6 +55,9 @@ comments: true
     <th class="tg-0pky">Imatinib<img src="/img/Imatinib0.jpg" alt="p9"><img src="/img/Imatinib00.jpg" alt="p9"></th>
   </tr>
  
+ <tr>
+    <th class="tg-0pky">Lapatinib<img src="/img/Lapatinib.jpg" alt="p7"></th>
+  </tr>
   
 
  
