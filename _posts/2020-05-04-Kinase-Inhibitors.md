@@ -67,6 +67,10 @@ comments: true
     <th class="tg-0pky">Nilotinib<img src="/img/Nilotinib.jpg" alt="p7"></th>
   </tr>
   
+   <tr>
+    <th class="tg-0pky">Palbociclib<img src="/img/Palbociclib.jpg" alt="p7"></th>
+  </tr>
+  
 
  
   
