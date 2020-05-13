@@ -59,6 +59,10 @@ comments: true
     <th class="tg-0pky">Lapatinib<img src="/img/Lapatinib.jpg" alt="p7"></th>
   </tr>
   
+  <tr>
+    <th class="tg-0pky">Lenvatinib<img src="/img/Lenvatinib.jpg" alt="p7"></th>
+  </tr>
+  
 
  
   
