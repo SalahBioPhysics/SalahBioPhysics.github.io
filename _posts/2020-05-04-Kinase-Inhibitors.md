@@ -71,6 +71,10 @@ comments: true
     <th class="tg-0pky">Palbociclib<img src="/img/Palbociclib.jpg" alt="p7"></th>
   </tr>
   
+  <tr>
+    <th class="tg-0pky">Ponatinib<img src="/img/Ponatinib.jpg" alt="p7"></th>
+  </tr>
+  
 
  
   
