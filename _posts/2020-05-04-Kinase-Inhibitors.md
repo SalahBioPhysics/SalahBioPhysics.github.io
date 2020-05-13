@@ -44,7 +44,7 @@ comments: true
   </tr>
   
   <tr>
-    <th class="tg-0pky">Dasatinib<img src="/img/Dasatinib0.jpg" alt="p7"><img src="/img/Dasatinib00.jpg" alt="p8"><img src="/img/Dasatinib000.jpg" alt="p8"><img src="/img/Dasatinib0000.jpg" alt="p7"><img src="/img/Dasatinib00000.jpg" alt="p8"></th>
+    <th class="tg-0pky">Dasatinib<img src="/img/Dasatinib0.jpg" alt="p8"><img src="/img/Dasatinib00.jpg" alt="p8"><img src="/img/Dasatinib000.jpg" alt="p8"><img src="/img/Dasatinib0000.jpg" alt="p7"><img src="/img/Dasatinib00000.jpg" alt="p8"></th>
   </tr>
   
   <tr>
@@ -52,30 +52,32 @@ comments: true
   </tr>
   
    <tr>
-    <th class="tg-0pky">Imatinib<img src="/img/Imatinib0.jpg" alt="p9"><img src="/img/Imatinib00.jpg" alt="p9"></th>
+    <th class="tg-0pky">Imatinib<img src="/img/Imatinib0.jpg" alt="p10"><img src="/img/Imatinib00.jpg" alt="p10"></th>
   </tr>
  
  <tr>
-    <th class="tg-0pky">Lapatinib<img src="/img/Lapatinib.jpg" alt="p7"></th>
+    <th class="tg-0pky">Lapatinib<img src="/img/Lapatinib.jpg" alt="p11"></th>
   </tr>
   
   <tr>
-    <th class="tg-0pky">Lenvatinib<img src="/img/Lenvatinib.jpg" alt="p7"></th>
+    <th class="tg-0pky">Lenvatinib<img src="/img/Lenvatinib.jpg" alt="p12"></th>
   </tr>
   
    <tr>
-    <th class="tg-0pky">Nilotinib<img src="/img/Nilotinib.jpg" alt="p7"></th>
+    <th class="tg-0pky">Nilotinib<img src="/img/Nilotinib.jpg" alt="p13"></th>
   </tr>
   
    <tr>
-    <th class="tg-0pky">Palbociclib<img src="/img/Palbociclib.jpg" alt="p7"></th>
+    <th class="tg-0pky">Palbociclib<img src="/img/Palbociclib.jpg" alt="p14"></th>
   </tr>
   
   <tr>
-    <th class="tg-0pky">Ponatinib<img src="/img/Ponatinib.jpg" alt="p7"></th>
+    <th class="tg-0pky">Ponatinib<img src="/img/Ponatinib.jpg" alt="p15"></th>
   </tr>
   
-
+ <tr>
+    <th class="tg-0pky">Regorafenib<img src="/img/Regorafenib0.jpg" alt="p16"><img src="/img/Regorafenib00.jpg" alt="p16"><img src="/img/Regorafenib000.jpg" alt="p16"></th>
+  </tr>
  
   
   
