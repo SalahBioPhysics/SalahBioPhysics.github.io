@@ -78,6 +78,10 @@ comments: true
  <tr>
     <th class="tg-0pky">Regorafenib<img src="/img/Regorafenib0.jpg" alt="p16"><img src="/img/Regorafenib00.jpg" alt="p16"><img src="/img/Regorafenib000.jpg" alt="p16"></th>
   </tr>
+  
+  <tr>
+    <th class="tg-0pky">Sorafenib<img src="/img/Sorafenib.jpg" alt="p15"></th>
+  </tr>
  
   
   
