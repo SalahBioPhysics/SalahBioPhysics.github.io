@@ -82,6 +82,10 @@ comments: true
   <tr>
     <th class="tg-0pky">Sorafenib<img src="/img/Sorafenib.jpg" alt="p15"></th>
   </tr>
+  
+   <tr>
+    <th class="tg-0pky">Sunitinib<img src="/img/Sunitinib.jpg" alt="p15"></th>
+  </tr>
  
   
   
