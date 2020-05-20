@@ -16,7 +16,10 @@ If we let $q^m$ where $m=1 ... f$ be a set of coordinates which define a point i
 $${\bar{\mathbb{q}}}^n = {\bar{\mathbb{q}}}^n(q^1 ... q^f)$$
 
 Infinitesimal changes $dq^m$ in the $q^m$ define infinitesimal changes $d\bar{\mathbb{q}}^n$ in the $\bar{\mathbb{q}}^n$ by 
-$$d\bar{\mathbb{q}}^n = \partial{\bar{\mathbb{q}}^2}$$
+
+$$d\bar{\mathbb{q}}^n = \frac{\partial{\bar{\mathbb{q}}}}{\partial{q^m}}\partial{q^m}          (m,n = 1 ... f)$$
+
+
 
 
 
