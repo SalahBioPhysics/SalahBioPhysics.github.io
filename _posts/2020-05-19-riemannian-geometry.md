@@ -13,7 +13,9 @@ coordinate differentials.  The first example comes to mind is a particle moving 
 This mathematical framework is useful for finding meaningful geometric descriptions in data sets. 
 If we let $q^m$ where $m=1 ... f$ be a set of coordinates which define a point in configuration space and another set of coordinates $\bar{\mathbb{q}}^n$ where $n=1 ... f$ which are functions of $q^m$:
 
-\begin{equation}{\bar{\mathbb{q}}}^n = {\bar{\mathbb{q}}}^n(q^1 ... q^f)\end{equation}
+\begin{equation}
+{\bar{\mathbb{q}}}^n = {\bar{\mathbb{q}}}^n(q^1 ... q^f)
+\end{equation}
 
 
 Infinitesimal changes $dq^m$ in the $q^m$ define infinitesimal changes $d\bar{\mathbb{q}}^n$ in the $\bar{\mathbb{q}}^n$ by 
@@ -22,7 +24,11 @@ $$d\bar{\mathbb{q}}^n = \frac{\partial{\bar{\mathbb{q^n}}}}{\partial{q^m}}\parti
 
 Quantities $\lambda^m$ which transfor according to the law 
 
-$$\bar{\mathbb{\lambda}}^n = \frac{\partial{\bar{\mathbb{q^n}}}}{\partial{q^m}}\lambda^m \qquad (m,n = 1 ... f)$$
+$$\bar{\mathbb{\lambda}}^n = \frac{\partial{\bar{\mathbb{q^n}}}}{\partial{q^m}}\lambda^m$$
+
+are called the contravariant components of a vector.
+
+
 
 
 
