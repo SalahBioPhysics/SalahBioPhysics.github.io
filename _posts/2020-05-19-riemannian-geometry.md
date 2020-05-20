@@ -17,7 +17,9 @@ $${\bar{\mathbb{q}}}^n = {\bar{\mathbb{q}}}^n(q^1 ... q^f)$$
 
 Infinitesimal changes $dq^m$ in the $q^m$ define infinitesimal changes $d\bar{\mathbb{q}}^n$ in the $\bar{\mathbb{q}}^n$ by 
 
-$$d\bar{\mathbb{q}}^n = \frac{\partial{\bar{\mathbb{q}}}}{\partial{q^m}}\partial{q^m}          (m,n = 1 ... f)$$
+$$d\bar{\mathbb{q}}^n = \frac{\partial{\bar{\mathbb{q^n}}}}{\partial{q^m}}\partial{q^m}\qquad(m,n = 1 ... f)$$
+
+
 
 
 
