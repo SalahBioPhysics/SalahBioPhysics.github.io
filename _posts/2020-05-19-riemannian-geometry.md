@@ -20,6 +20,13 @@ Infinitesimal changes $dq^m$ in the $q^m$ define infinitesimal changes $d\bar{\m
 
 $$d\bar{\mathbb{q}}^n = \frac{\partial{\bar{\mathbb{q^n}}}}{\partial{q^m}}\partial{q^m}\qquad(m,n = 1 ... f)$$
 
+Quantities $\lamda^m$ which transfor according to the law 
+
+$$d\bar{\mathbb{\lamda}}^n = \frac{\partial{\bar{\mathbb{q^n}}}}{\partial{q^m}}\lamda^m \qquad (m,n = 1 ... f)$$
+
+
+
+
 
 
 
