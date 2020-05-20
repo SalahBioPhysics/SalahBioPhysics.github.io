@@ -24,9 +24,24 @@ $$d\bar{\mathbb{q}}^n = \frac{\partial{\bar{\mathbb{q^n}}}}{\partial{q^m}}\parti
 
 Quantities $\lambda^m$ which transfor according to the law 
 
-$$\bar{\mathbb{\lambda}}^n = \frac{\partial{\bar{\mathbb{q^n}}}}{\partial{q^m}}\lambda^m$$
+$$\bar{\mathbb{\lambda}}^n = \frac{\partial{\bar{\mathbb{q}^n}}}{\partial{q^m}}\lambda^m$$
 
-are called the contravariant components of a vector.
+are called the contravariant components of a vector.Let us consider the quantity $(dr)^2$, in cartesian coordinates this is given by 
+
+$$(dr)^2 \equiv ds^2 = (dx^1)^2 + (dx^2)^2 +(dx^3)^2$$
+
+If generalized coordinates $q^m$ are used, we get
+
+$$ds^2 = (\frac{\partial{x^1}}{\partial{q^m}}dq^m)^2 + (\frac{\partial{x^2}}{\partial{q^m}}dq^m)^2 + (\frac{\partial{x^3}}{\partial{q^m}}dq^m)^2$$
+
+If we define the metric tensor 
+
+$$g_{mn} = \frac{\partial{x^1}}{\partial{q^m}}\frac{\partial{x^1}}{\partial{q^n}} + \frac{\partial{x^2}}{\partial{q^m}}\frac{\partial{x^2}}{\partial{q^n}} + \frac{\partial{x^3}}{\partial{q^m}}\frac{\partial{x^3}}{\partial{q^n}}$$
+
+Then we can rewrite the generalized coordinates $q^m$ as 
+
+$$ds^2 = g_{mn}dq^m dq^n$$
+
 
 
 
