@@ -11,5 +11,5 @@ terms of which the distance between any two neighboring points in the space is g
 coordinate differentials.  The first example comes to mind is a particle moving on the surface of a sphere. 
 
 This mathematical framework is useful for finding meaningful geometric descriptions in data sets. 
-If we let $q^m$ where $m=1 . . . f$ be a set of coordinates which define a point in configuration space and another set of coordinates $q\bar^n$ where $n=1 . . . f$ 
+If we let $q^m$ where $m=1 . . . f$ be a set of coordinates which define a point in configuration space and another set of coordinates $q\par^n$ where $n=1 . . . f$ 
 
