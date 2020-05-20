@@ -15,3 +15,6 @@ If we let $q^m$ where $m=1 ... f$ be a set of coordinates which define a point i
 
 $${q \par}^n = {q \par}^n(q^1 ... q^f)$$
 
+Infinitesimal changes $dq^m$ in the $q^m$ define infinitesimal changes $dq \par^n$ in the $q \par^n$ by 
+$$dq\par^n = \partial{q\par^2}$$
+
