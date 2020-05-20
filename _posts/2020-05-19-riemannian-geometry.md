@@ -13,7 +13,7 @@ coordinate differentials.  The first example comes to mind is a particle moving 
 This mathematical framework is useful for finding meaningful geometric descriptions in data sets. 
 If we let $q^m$ where $m=1 ... f$ be a set of coordinates which define a point in configuration space and another set of coordinates ${q \par}^n$ where $n=1 ... f$ which are functions of $q^m$:
 
-$${q \par}^n = {q \par}^n(q^1 ... q^f)$$
+$${q \par}^n = {\par{q}}^n(q^1 ... q^f)$$
 
 Infinitesimal changes $dq^m$ in the $q^m$ define infinitesimal changes $dq \par^n$ in the $q \par^n$ by 
 $$dq\par^n = \partial{q\par^2}$$
