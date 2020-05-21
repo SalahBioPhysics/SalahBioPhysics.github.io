@@ -5,19 +5,24 @@ comments: true
 title: Diffusion Maps
 image: /img/disk_model.png
 ---
+<style>
+div_1 {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+</style>
 
-In this post I will explain and summarize [this](https://www.sciencedirect.com/science/article/pii/S1063520306000546) awesome paper.  The idea behind diffusion maps is dimensionality reduction.  Some datasets (i.e. images) contains useful geometric shapes, and these images often have too many factors (features) and most of the time these features are redundant. Diffusion maps is an efficient representations of these features because it provides a framework where these features are reduced into a smaller number, hence dimensionality reduction.  Mathematically, diffusion maps are coordinates constructed from the eigenvectors of the Markov matrices. Thus, eigenvectors of Markov matrices can be thought of as coordinates on the dataset.  The goal is to change the representation of the dataset in order to understand the phenomenon that generated the data.  
+In this post I will explain and summarize [this](https://www.sciencedirect.com/science/article/pii/S1063520306000546) awesome paper.  
+Diffusion maps are coordinates. More precisely, they are the eigenfunctions of Markov matrices.  Diffusion maps generate efficient
+data representations of complex geometric structures that allow us to extract relevant features out of the data in order to gain insight and understanding of the phenomenon that generated the data.  
 
-Let X be the data set and <a><img src="https://latex.codecogs.com/gif.latex?\mu" title="\mu" /></a> is the distribution of the points on X and let k(x,y) be a kernal that is 
-symmetric k(x,y) = k(y,x) and 
-positivity preserving k(x,y) >= 0
+<div_1>This text is the content of the box. We have added a 50px padding, 20px margin and a 15px green border. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div_1>
 
-In N-dimensional simplex noise, the squared kernel summation radius $r^2$ is $\frac 1 2$
-for all values of N. This is because the edge length of the N-simplex $s = \sqrt {\frac {N} {N + 1}}$
-divides out of the N-simplex height $h = s \sqrt {\frac {N + 1} {2N}}$.
-The kerel summation radius $r$ is equal to the N-simplex height $h$.
 
-$$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}} $$
+
 
 
 
