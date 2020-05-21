@@ -12,7 +12,7 @@ div_1 {
   border: 3px solid lightgreen;
   padding: 5px;
   margin: 5px;
-  font-size: 12px;
+  font-size: 15px;
 }
 </style>
 
@@ -22,6 +22,8 @@ data representations of complex geometric structures that allow us to extract re
 
 <div_1>An $n x n$ matrix is called a Markov matrix if all entries are nonnegative and the
 sum of each column vector is equal to 1.</div_1>
+
+ergwrg
 
 
 
