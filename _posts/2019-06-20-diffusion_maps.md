@@ -8,10 +8,10 @@ image: /img/disk_model.png
 <style>
 div_1 {
   background-color: lightgrey;
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+  width: 100px;
+  border: 10px solid green;
+  padding: 10px;
+  margin: 5px;
 }
 </style>
 
