@@ -12,7 +12,7 @@ div_1 {
   border: 3px solid lightgreen;
   padding: 5px;
   margin: 5px;
-  font-size: 10px;
+  font-size: 12px;
 }
 </style>
 
