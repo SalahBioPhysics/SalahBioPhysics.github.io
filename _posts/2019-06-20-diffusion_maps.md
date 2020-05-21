@@ -9,8 +9,8 @@ image: /img/disk_model.png
 div_1 {
   background-color: lightgrey;
   width: 100px;
-  border: 10px solid lightgreen;
-  padding: 10px;
+  border: 3px solid lightgreen;
+  padding: 5px;
   margin: 5px;
 }
 </style>
