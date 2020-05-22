@@ -20,9 +20,9 @@ If we let $q^m$ where $m=1 ... f$ be a set of coordinates which define a point i
 
 Infinitesimal changes $dq^m$ in the $q^m$ define infinitesimal changes $d\bar{\mathbb{q}}^n$ in the $\bar{\mathbb{q}}^n$ by 
 
-$$d\bar{\mathbb{q}}^n = \frac{\partial{\bar{\mathbb{q^n}}}}{\partial{q^m}}\partial{q^m}\qquad(m,n = 1 ... f)$$
+$$d\bar{\mathbb{q}}^n = \frac{\partial{\bar{\mathbb{q}^n}}}{\partial{q^m}}\partial{q^m}\qquad(m,n = 1 ... f)$$
 
-Quantities $\lambda^m$ which transfor according to the law 
+Quantities $\lambda^m$ which transfor according to the lawwwwww 
 
 $$\bar{\mathbb{\lambda}}^n = \frac{\partial{\bar{\mathbb{q}^n}}}{\partial{q^m}}\lambda^m$$
 
@@ -42,7 +42,7 @@ Then we can rewrite the generalized coordinates $q^m$ as
 
 $$ds^2 = g_{mn}dq^m dq^n$$
 
-
+We can use other coordinates $Q$
 
 
 
