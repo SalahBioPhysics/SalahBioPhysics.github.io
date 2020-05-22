@@ -24,7 +24,7 @@ $$d\bar{\mathbb{q}}^n = \frac{\partial{\bar{\mathbb{q}}^n}}{\partial{q^m}}\parti
 
 Quantities $\lambda^m$ which transfor according to the law
 
-$$\bar{\mathbb{\lambda}}^n = \frac{\partial{\bar{\mathbb{q}^n}}}{\partial{q^m}}\lambda^m$$
+$$\bar{\mathbb{\lambda}}^n = \frac{\partial{\bar{\mathbb{q}}}^n}{\partial{q^m}}\lambda^m$$
 
 are called the contravariant components of a vector.Let us consider the quantity $(dr)^2$, in cartesian coordinates this is given by 
 
@@ -42,7 +42,9 @@ Then we can rewrite the generalized coordinates $q^m$ as
 
 $$ds^2 = g_{mn}dq^m dq^n$$
 
-We can use other coordinates $\bar{\mathbb{q}^r}}$
+We can use other coordinates $\bar{\mathbb{q}^r}$ to have:
+
+$$ds^2 = \bar{\mathbb{g}_rs}} d\bar{\mathbb{q}^r}\bar{\mathbb{q}^s}$$
 
 
 
