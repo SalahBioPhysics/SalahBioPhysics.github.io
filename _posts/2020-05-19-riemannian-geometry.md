@@ -44,11 +44,11 @@ $$ds^2 = g_{mn}dq^m dq^n$$
 
 We can use other coordinates $\bar{\mathbb{q}}^r$ to have
 
-$$ds^2 = \bar{\mathbb{g}_rs} d\bar{\mathbb{q}}^r d\bar{\mathbb{q}}^s$$
+$$ds^2 = \bar{\mathbb{g}_{rs}} d\bar{\mathbb{q}}^r d\bar{\mathbb{q}}^s$$
 
 Using the invariance of $ds^2$, we get
 
-$$$$
+$$\bar{\mathbb{g}_{rs}} \frac{\partial{\bar{\mathbb{q}}^r}}{\partial{q^m}} \frac{\partial{\bar{\mathbb{q}}^s}}{\partial{q^n}} dq^m dq^n = g_{mn}dq^mdq^n$$
 
 
 
