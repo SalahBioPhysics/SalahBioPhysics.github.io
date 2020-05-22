@@ -42,9 +42,14 @@ Then we can rewrite the generalized coordinates $q^m$ as
 
 $$ds^2 = g_{mn}dq^m dq^n$$
 
-We can use other coordinates $\bar{\mathbb{q}^r}$ to have:
+We can use other coordinates $\bar{\mathbb{q}}^r$ to have
 
-$$ds^2 = \bar{\mathbb{g}_rs}} d\bar{\mathbb{q}^r}\bar{\mathbb{q}^s}$$
+$$ds^2 = \bar{\mathbb{g}_rs} d\bar{\mathbb{q}}^r d\bar{\mathbb{q}}^s$$
+
+Using the invariance of $ds^2$, we get
+
+$$$$
+
 
 
 
