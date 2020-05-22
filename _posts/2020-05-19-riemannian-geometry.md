@@ -50,6 +50,11 @@ Using the invariance of $ds^2$, we get
 
 $$\bar{\mathbb{g}}_{rs} \frac{\partial{\bar{\mathbb{q}}^r}}{\partial{q^m}} \frac{\partial{\bar{\mathbb{q}}^s}}{\partial{q^n}} dq^m dq^n = g_{mn}dq^mdq^n$$
 
+Identifying coefficients of products of coordinate differentials, we have
+
+$$\bar{\mathbb{g}}_{rs} \frac{\partial{\bar{\mathbb{q}}^r}}{\partial{q^m}} \frac{\partial{\bar{\mathbb{q}}^s}}{\partial{q^n}} = g_{mn}$$
+
+
 
 
 
