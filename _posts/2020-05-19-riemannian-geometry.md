@@ -60,7 +60,7 @@ $$g_{mn} = \bar{\mathbb{g}}_{ij} \frac{\partial{\bar{\mathbb{q}}^i}}{\partial{q}
 
 Then, we get
 
-$$\frac{\partial{g}_{mn}}{\partial{q}^r} = \frac{\partial{\bar{\mathbb{g}}}_{ij}}{\partial{\bar{\mathbb{q}}}^k} \frac{\partial{\bar{\mathbb{q}}}^{i}}{\partial{\bar{\mathbb{q}}}^m} \frac{\partial{\bar{\mathbb{q}}}^{j}}{\partial{\bar{\mathbb{q}}}^n} + \bar{\mathbb{g}}_{ij}\left  $$
+$$\frac{\partial{g}_{mn}}{\partial{q}^r} = \frac{\partial{\bar{\mathbb{g}}}_{ij}}{\partial{\bar{\mathbb{q}}}^k} \frac{\partial{\bar{\mathbb{q}}}^{i}}{\partial{\bar{\mathbb{q}}}^m} \frac{\partial{\bar{\mathbb{q}}}^{j}}{\partial{\bar{\mathbb{q}}}^n} + \bar{\mathbb{g}}_{ij} $$
 
 
 
