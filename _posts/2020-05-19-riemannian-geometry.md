@@ -60,9 +60,9 @@ $$g_{mn} = \bar{\mathbb{g}}_{ij} \frac{\partial{\bar{\mathbb{q}}^i}}{\partial{q}
 
 Then, we get
 
-$$\frac{\partial{g}_{mn}}{\partial{q}^r} = \frac{\partial{\bar{\mathbb{g}}}_{ij}}{\partial{\bar{\mathbb{q}}}^k} \frac{\partial{\bar{\mathbb{q}}}^{i}}{\partial{q}^m} \frac{\partial{\bar{\mathbb{q}}}^{j}}{\partial{q}^n} + \bar{\mathbb{g}}_{ij} \left( \frac{\partial^2{\bar{\mathbb{q}}^i}}{\partial{q}^r\partial{q}^m} \frac{\partial{\bar{\mathbb{q}}^j}{\partial{q}^n}\right)$$
+$$\frac{\partial{g}_{mn}}{\partial{q}^r} = \frac{\partial{\bar{\mathbb{g}}}_{ij}}{\partial{\bar{\mathbb{q}}}^k} \frac{\partial{\bar{\mathbb{q}}}^{i}}{\partial{q}^m} \frac{\partial{\bar{\mathbb{q}}}^{j}}{\partial{q}^n} + \bar{\mathbb{g}}_{ij} \left( \frac{\partial^2{\bar{\mathbb{q}}^i}}{\partial{q}^r\partial{q}^m} \frac{\partial{\bar{\mathbb{q}}^j}}{\partial{q}^n} \right)$$
 
-
+srfdgsw
 
 
 
