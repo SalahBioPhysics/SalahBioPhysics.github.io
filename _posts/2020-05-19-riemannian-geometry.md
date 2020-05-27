@@ -54,7 +54,13 @@ Identifying coefficients of products of coordinate differentials, we have
 
 $$\bar{\mathbb{g}}_{rs} \frac{\partial{\bar{\mathbb{q}}^r}}{\partial{q^m}} \frac{\partial{\bar{\mathbb{q}}^s}}{\partial{q^n}} = g_{mn}$$
 
+If we use the transformation equation for the metric tensor:
 
+$$g_{mn} = \bar{\mathbb{g}}_{ij} \frac{\partial{\bar{\mathbb{q}}^i}}{\partial{\bar{\mathbb{q}}^m}} \frac{\partial{\bar{\mathbb{q}}^j}}{\partial{\bar{\mathbb{q}}^n}}$$
+
+Then, we get
+
+...
 
 
 
