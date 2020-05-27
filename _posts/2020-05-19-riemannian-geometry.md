@@ -56,7 +56,7 @@ $$\bar{\mathbb{g}}_{rs} \frac{\partial{\bar{\mathbb{q}}^r}}{\partial{q^m}} \frac
 
 If we use the transformation equation for the metric tensor:
 
-$$g_{mn} = \bar{\mathbb{g}}_{ij} \frac{\partial{\bar{\mathbb{q}}^i}}{\partial{q}^m}} \frac{\partial{\bar{\mathbb{q}}^j}}{\partial{q}^n}}$$
+$$g_{mn} = \bar{\mathbb{g}}_{ij} \frac{\partial{\bar{\mathbb{q}}^i}}{\partial{q}^m} \frac{\partial{\bar{\mathbb{q}}^j}}{\partial{q}^n}$$
 
 Then, we get
 
