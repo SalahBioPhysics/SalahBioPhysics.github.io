@@ -62,7 +62,13 @@ Then, we get
 
 $$\frac{\partial{g}_{mn}}{\partial{q}^r} = \frac{\partial{\bar{\mathbb{g}}}_{ij}}{\partial{\bar{\mathbb{q}}}^k} \frac{\partial{\bar{\mathbb{q}}}^{i}}{\partial{q}^m} \frac{\partial{\bar{\mathbb{q}}}^{j}}{\partial{q}^n} \frac{\partial{\bar{\mathbb{q}}}^{k}}{\partial{q}^r} + \bar{\mathbb{g}}_{ij} \left( \frac{\partial^2{\bar{\mathbb{q}}^i}}{\partial{q}^r\partial{q}^m} \frac{\partial{\bar{\mathbb{q}}^j}}{\partial{q}^n} + \frac{\partial{\bar{\mathbb{q}}^i}}{\partial{q}^m} \frac{\partial^2{\bar{\mathbb{q}}^j}}{\partial{q}^n\partial{q}^r}\right)$$
 
-sssss
+Changing the indices syclically:
+
+$$\frac{\partial{g}_{mn}}{\partial{q}^n} = \frac{\partial{\bar{\mathbb{g}}}_{ki}}{\partial{\bar{\mathbb{q}}}^j} \frac{\partial{\bar{\mathbb{q}}}^{i}}{\partial{q}^m} \frac{\partial{\bar{\mathbb{q}}}^{j}}{\partial{q}^n} \frac{\partial{\bar{\mathbb{q}}}^{k}}{\partial{q}^r} + \bar{\mathbb{g}}_{ij} \left( \frac{\partial^2{\bar{\mathbb{q}}^i}}{\partial{q}^n\partial{q}^r} \frac{\partial{\bar{\mathbb{q}}^j}}{\partial{q}^m} + \frac{\partial{\bar{\mathbb{q}}^i}}{\partial{q}^r} \frac{\partial^2{\bar{\mathbb{q}}^j}}{\partial{q}^m\partial{q}^n}\right)$$
+
+$$\frac{\partial{g}_{mn}}{\partial{q}^m} = \frac{\partial{\bar{\mathbb{g}}}_{jk}}{\partial{\bar{\mathbb{q}}}^i} \frac{\partial{\bar{\mathbb{q}}}^{i}}{\partial{q}^m} \frac{\partial{\bar{\mathbb{q}}}^{j}}{\partial{q}^n} \frac{\partial{\bar{\mathbb{q}}}^{k}}{\partial{q}^r} + \bar{\mathbb{g}}_{ij} \left( \frac{\partial^2{\bar{\mathbb{q}}^i}}{\partial{q}^m\partial{q}^n} \frac{\partial{\bar{\mathbb{q}}^j}}{\partial{q}^r} + \frac{\partial{\bar{\mathbb{q}}^i}}{\partial{q}^n} \frac{\partial^2{\bar{\mathbb{q}}^j}}{\partial{q}^r\partial{q}^m}\right)$$
+
+mmmm
 
 
 
