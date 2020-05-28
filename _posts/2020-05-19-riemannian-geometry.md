@@ -80,6 +80,11 @@ And the Christoffel symbol of the second kind as:
 
 $$\left{{s}\choose{mn}\right} = \bar{\mathbb{g}}^{sr} \left[ mn,r \right] = \frac{1}{2} \bar{\mathbb{g}}^{sr}\left(\frac{\partial{g}_{rm}}{\partial{q}^n} + \frac{\partial{g}_{nr}}{\partial{q}^m} - \frac{\partial{g}_{mn}}{\partial{q}^r}\right)$$
 
+The Christoffel symbol of the first kind can also be written as:
+
+$$\left[ mn,r \right] = \overline{\left[ ij,k \right]} \frac{\partial{\bar{\mathbb{q}}}^{i}}{\partial{q}^m} \frac{\partial{\bar{\mathbb{q}}}^{j}}{\partial{q}^n} \frac{\partial{\bar{\mathbb{q}}}^{k}}{\partial{q}^r} $$
+
+
 
 
 
