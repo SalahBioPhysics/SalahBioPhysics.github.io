@@ -78,7 +78,7 @@ $$\left[ mn,r \right] \equiv \frac{1}{2} \left(\frac{\partial{g}_{rm}}{\partial{
 
 And the Christoffel symbol of the second kind as:
 
-$$\left{ s\choose mn \right} = \bar{\mathbb{g}}^{sr} \left[mn,r\right] = $$
+$$\left{\binom(s,mn)\right} = \bar{\mathbb{g}}^{sr} \left[mn,r\right] = \frac{1}{2}$$
 
 
 
