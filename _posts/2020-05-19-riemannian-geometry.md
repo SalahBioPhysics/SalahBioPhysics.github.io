@@ -76,9 +76,11 @@ We define the Christoffel symbol of the first kind as:
 
 $$\left[ mn,r \right] \equiv \frac{1}{2} \left(\frac{\partial{g}_{rm}}{\partial{q}^n} + \frac{\partial{g}_{nr}}{\partial{q}^m} - \frac{\partial{g}_{mn}}{\partial{q}^r}\right)$$
 
-And the Christoffel symbol of the second kind aaaaas:
+And the Christoffel symbol of the second kind as:
 
+Solving for the second derivative, we get:
 
+$$\frac{\partial^2{\bar{\mathbb{q}}^i}}{\partial{q}^m\partial{q}^n} = $\left{{r}\choose{mn}\right} \frac{\partial{\bar{\mathbb{q}}}^{i}}{\partial{q}^r} - \overline{\left{{i}\choose{jk}\right}} \frac{\partial{\bar{\mathbb{q}}}^{j}}{\partial{q}^m} \frac{\partial{\bar{\mathbb{q}}}^{k}}{\partial{q}^n}$$
 
 
 
