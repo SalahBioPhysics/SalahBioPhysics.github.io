@@ -78,7 +78,7 @@ $$\left[ mn,r \right] \equiv \frac{1}{2} \left(\frac{\partial{g}_{rm}}{\partial{
 
 And the Christoffel symbol of the second kind as:
 
-$$\left{{s}\choose{mn}\right} = \bar{\mathbb{g}}^{sr} \left[ mn,r \right] = \frac{1}{2} \bar{\mathbb{g}}^{sr} $$
+$$\left{{s}\choose{mn}\right} = \bar{\mathbb{g}}^{sr} \left[ mn,r \right] = \frac{1}{2} \bar{\mathbb{g}}^{sr}\left(\frac{\partial{g}_{rm}}{\partial{q}^n} + \frac{\partial{g}_{nr}}{\partial{q}^m} - \frac{\partial{g}_{mn}}{\partial{q}^r}\right)$$
 
 
 
