@@ -74,11 +74,11 @@ $$\frac{\partial{g}_{rm}}{\partial{q}^n} + \frac{\partial{g}_{nr}}{\partial{q}^m
 
 We define the Christoffel symbol of the first kind as:
 
-$$\left[ mn,r \right] \equiv \frac{1}{2} \frac{\partial{g}_{rm}}{\partial{q}^n} + \frac{\partial{g}_{nr}}{\partial{q}^m} - \frac{\partial{g}_{mn}}{\partial{q}^r}$$
+$$\left[ mn,r \right] \equiv \frac{1}{2} \left(\frac{\partial{g}_{rm}}{\partial{q}^n} + \frac{\partial{g}_{nr}}{\partial{q}^m} - \frac{\partial{g}_{mn}}{\partial{q}^r}\right)$$
 
 And the Christoffel symbol of the second kind as:
 
-
+$$\{s \choose mn\} = \bar{\mathbb{g}}^{sr} \left[mn,r\right] $$
 
 
 
