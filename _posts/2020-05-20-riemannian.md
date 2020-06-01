@@ -86,7 +86,9 @@ $$\left[mn,r\right] = \overline{\left[ij,k\right]} \frac{\partial{\bar{\mathbb{g
 
 Solving for the second derivative give us:
 
-$$\frac{\partial^2{\bar{\mathbb{q}}}^i}{\partial{q}^m\partial{q}^n} = {r\choose{mn}} \frac{\partial{\bar{\mathbb{q}}}^i}{\partial{q}^r} - h$$
+$$\frac{\partial^2{\bar{\mathbb{q}}}^i}{\partial{q}^m\partial{q}^n} = {r\choose{mn}} \frac{\partial{\bar{\mathbb{q}}}^i}{\partial{q}^r} - \overline{{i\choose{jk}}} \frac{\partial{\bar{\mathbb{q}}}^j}{\partial{q}^m} \frac{\partial{\bar{\mathbb{q}}}^k}{\partial{q}^n}$$
+
+
 
 
 
