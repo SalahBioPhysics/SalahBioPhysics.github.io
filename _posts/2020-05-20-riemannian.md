@@ -78,7 +78,7 @@ $$\left[mn,r\right] \equiv \frac{1}{2} \Bigg(\frac{\partial{g}_{rm}}{\partial{q}
 
 And the Christoffel symbol of the second kind as:
 
-$$x = ha$$
+$${s}\choose{mn}$$
 
 Solving for the second derivative, we gett:
 
