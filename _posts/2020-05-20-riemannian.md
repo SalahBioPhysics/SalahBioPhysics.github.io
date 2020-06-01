@@ -98,9 +98,13 @@ $$\ddot{\bar{\mathbb{q}}}^k = \frac{d}{dt}\Bigg(\frac{\partial{\bar{\mathbb{q}}}
 
 Using the above equation, we have:
 
-$$\ddot{\bar{\mathbb{q}}}^k + \overline{k\choose{mn}} \dot{\bar{\mathbb{q}}}^m \dot{\bar{\mathbb{q}}}^n = \Bigg(\ddot{\bar{\mathbb{q}}}^l + {l\choose{rs}} \dot{\bar{\mathbb{q}}}^r \dot{\bar{\mathbb{q}}}^s\Bigg) \frac{\partial{\bar{\mathbb{q}}}^k}{\partial{q}^l} $$
+$$\ddot{\bar{\mathbb{q}}}^k + \overline{k\choose{mn}} \dot{\bar{\mathbb{q}}}^m \dot{\bar{\mathbb{q}}}^n = \Bigg(\ddot{q}^l + {l\choose{rs}} \dot{q}^r \dot{q}^s\Bigg) \frac{\partial{\bar{\mathbb{q}}}^k}{\partial{q}^l} $$
 
-ugvh
+Now we can write the contravariant components of a vector as:
+
+$$a^l \equiv \ddot{q}^l + {l\choose{rs}} \dot{q}^r \dot{q}^s$$
+
+In cartesian coordinates 
 
 
 
