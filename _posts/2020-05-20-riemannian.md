@@ -74,7 +74,7 @@ $$\frac{\partial{g}_{rm}}{\partial{q}^n} + \frac{\partial{g}_{nr}}{\partial{q}^m
 
 We define the Christoffel symbol of the first kind as:
 
-$$x = yz$$
+$$\left[mn,r\right] \equiv \frac{1}{2}$$
 
 And the Christoffel symbol of the second kind as:
 
