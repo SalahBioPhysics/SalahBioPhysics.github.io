@@ -82,7 +82,11 @@ $${s\choose{mn}} = g^{sr}\left[mn,r\right] = \frac{1}{2} g^{sr} \Bigg(\frac{\par
 
 We can write the above equation as:
 
-$$\left[mn,r\right] = \overline{\left[ij,k\right]} \frac{\partial{\bar{\mathbb{g}}^i}}{\partial{q}^m} \frac{\partial{\bar{\mathbb{g}}^j}}{\partial{q}^n} \frac{\partial{\bar{\mathbb{g}}^k}}{\partial{q}^r} + \bar{\mathbb{g}}_{ij} \frac{\partial^2{\bar{\mathbb{q}}}^i}{\partial{q}^m\partial{q}^n} \frac{\partial{q}^j}{\partial{\bar{\mathbb{q}}}^r}$$
+$$\left[mn,r\right] = \overline{\left[ij,k\right]} \frac{\partial{\bar{\mathbb{g}}^i}}{\partial{q}^m} \frac{\partial{\bar{\mathbb{g}}^j}}{\partial{q}^n} \frac{\partial{\bar{\mathbb{g}}^k}}{\partial{q}^r} + \bar{\mathbb{g}}_{ij} \frac{\partial^2{\bar{\mathbb{q}}}^i}{\partial{q}^m\partial{q}^n} \frac{\partial{\bar{\mathbb{q}}}^j}{\partial{q}^r}$$
+
+Solving for the second derivative give us:
+
+$$\frac{\partial^2{\bar{\mathbb{q}}}^i}{\partial{q}^m\partial{q}^n} = {r\choose{mn}} \frac{\partial{\bar{\mathbb{q}}}^i}{\partial{q}^r} - h$$
 
 
 
