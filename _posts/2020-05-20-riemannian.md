@@ -90,9 +90,12 @@ $$\frac{\partial^2{\bar{\mathbb{q}}}^i}{\partial{q}^m\partial{q}^n} = {r\choose{
 
 The generalized velocity components are taken to be $\dot{q}^j$, we have
 
-$$\bar{\mathbb{\dot{q}^k}} = \frac{\partial{\bar{\mathbb{q}}}^k}{\partial{q}^l}\dot{q}^l$$
+$$\bar{\mathbb{\dot{q}}}^k = \frac{\partial{\bar{\mathbb{q}}}^k}{\partial{q}^l}\dot{q}^l$$
 
-.....
+And the generalized acceleration is:
+
+$$\bar{\mathbb{\dotdot{q}}}^k = \frac{d}{dt}\Bigg(\frac{\partial{\bar{\mathbb{q}}}^k}{\partial{q}^l}\dot{q}^l\Bigg)$$
+
 
 
 
