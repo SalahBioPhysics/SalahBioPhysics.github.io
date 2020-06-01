@@ -74,10 +74,15 @@ $$\frac{\partial{g}_{rm}}{\partial{q}^n} + \frac{\partial{g}_{nr}}{\partial{q}^m
 
 We define the Christoffel symbol of the first kind as:
 
+$$x = yz$$
 
 And the Christoffel symbol of the second kind as:
 
+$$x = ha$$
+
 Solving for the second derivative, we gett:
+
+$$g = ol$$
 
 
 
