@@ -82,7 +82,7 @@ $${s\choose{mn}} = g^{sr}\left[mn,r\right] = \frac{1}{2} g^{sr} \Bigg(\frac{\par
 
 We can write the above equation as:
 
-$$\left[mn,r\right] = \overline{\left[ij,k\right]}  $$
+$$\left[mn,r\right] = \overline{\left[ij,k\right]} \frac{\partial{\bar{\mathbb{g}}^i}}{\partial{q}^m} $$
 
 
 
