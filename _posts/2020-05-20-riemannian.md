@@ -94,7 +94,9 @@ $$\dot{\bar{\mathbb{q}}}^k = \frac{\partial{\bar{\mathbb{q}}}^k}{\partial{q}^l}\
 
 And the generalized acceleration is:
 
-$$\ddot{\bar{\mathbb{q}}}^k = \frac{d}{dt}\Bigg(\frac{\partial{\bar{\mathbb{q}}}^k}{\partial{q}^l}\dot{q}^l\Bigg) \\ = swf$$
+$$\ddot{\bar{\mathbb{q}}}^k = \frac{d}{dt}\Bigg(\frac{\partial{\bar{\mathbb{q}}}^k}{\partial{q}^l}\dot{q}^l\Bigg) \\ = \frac{\partial{\bar{\mathbb{q}}}^k}{\partial{q}^l}\ddot{q}^l + \frac{\partial^2{\bar{\mathbb{q}}}^k}{\partial{q}^m\partial{q}^l} \dot{q}^l\dot{q}^m$$
+
+egher
 
 
 
