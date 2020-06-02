@@ -4,7 +4,6 @@ mathjax: true
 comments: true
 title: Riemannian Geometry
 author: Salah Salah
-source: Classical Mechanics: 2nd Edition, H.C. Corben, Philip Stehle
 image: /img/standard.jpg
 ---
 
