@@ -3,6 +3,8 @@ layout: post
 mathjax: true
 comments: true
 title: Riemannian Geometry
+author: Salah Salah
+source: Classical Mechanics: 2nd Edition, H.C. Corben, Philip Stehle
 image: /img/standard.jpg
 ---
 
@@ -104,7 +106,7 @@ Now we can write the contravariant components of a vector as:
 
 $$a^l \equiv \ddot{q}^l + {l\choose{rs}} \dot{q}^r \dot{q}^s$$
 
-In cartesian coordinates 
+In cartesian coordinates all the Christoffel symblos vanish because the $g_{mn}$ are constant. 
 
 
 
