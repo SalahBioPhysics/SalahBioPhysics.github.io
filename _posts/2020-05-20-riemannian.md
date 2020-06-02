@@ -3,7 +3,6 @@ layout: post
 mathjax: true
 comments: true
 title: Riemannian Geometry
-author: Salah Salah
 image: /img/standard.jpg
 ---
 
