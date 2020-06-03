@@ -110,9 +110,17 @@ $$ds^2 = g_{mn}dq^mdq^n = \bar{\mathbb{g}}_{mn}d\bar{\mathbb{q}}^md\bar{\mathbb{
 
 with:
 
-$$\begin{pmatrix}
-1 & 2 & 3\\
-a & b & c
+$$g_{mn} = \begin{pmatrix}
+1 & 0 \\
+0 & 1 
+\end{pmatrix} = g^{mn}$$
+
+$$\bar{\mathbb{g}}_{ij} = \begin{pmatrix}
+1 & 0 \\
+0 & r^2 
+\end{pmatrix}, \bar{\mathbb{g}}^{ij}\begin{pmatrix}
+1 & 0 \\
+0 & r^{-2} 
 \end{pmatrix}$$
 
 
