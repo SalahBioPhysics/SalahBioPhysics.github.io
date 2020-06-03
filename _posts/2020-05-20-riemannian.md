@@ -131,7 +131,7 @@ and all other terms vanish.
 
 The components of the acceleration vector are given by:
 
-$$\bar{\mathbb{a}}^1 = \ddot{r} = r\dot{\theta}^2 \\ \bar{\mathbb{a}}^2 = \ddot{\theta}} + 2\frac{\dot{r}\dot{\theta}}{r}$$
+$$\bar{\mathbb{a}}^1 = \ddot{r} = r\dot{\theta}^2 \\ \bar{\mathbb{a}}^2 = \ddot{\theta} + 2\frac{\dot{r}\dot{\theta}}{r}$$
 
 Another example is ...
 
