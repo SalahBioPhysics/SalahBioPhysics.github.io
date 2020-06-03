@@ -134,7 +134,23 @@ The components of the acceleration vector are given by:
 
 $$\bar{\mathbb{a}}^1 = \ddot{r} = r\dot{\theta}^2 \\ \bar{\mathbb{a}}^2 = \ddot{\theta} + 2\frac{\dot{r}\dot{\theta}}{r}$$
 
-Another example is ...
+If spherical coordinates $\bar{\mathbb{q}}^1 = r, \bar{\mathbb{q}}^2 = \theta, \bar{\mathbb{q}}^3 = \phi$ are introduced to describe the motion of a particle in three dimensions:
+
+$$ds^2 = dr^2 + r^2d\theta^2 + r^2/sin^2{\theta}d\phi^2$$
+
+$$\bar{\mathbb{g}}_{mn} = \begin{pmatrix}
+1 & 0 & 0\\
+0 & r^{2} & 0 \\
+0 & 0 & r^2\sin^2{\theta}
+\end{pmatrix}, \quad \bar{\mathbb{g}}^{mn} = \begin{pmatrix}
+1 & 0 & 0\\
+0 & r^{-2} & 0 \\
+0 & 0 & r^{-2}\cosec^2{\theta}
+\end{pmatrix}$$
+
+The only nonvanishing Christoffel symbols are those involving $\frac{\partial\bar{\mathbb{g}}_{22}}{\partial\bar{\mathbb{q}}^1},\frac{\partial\bar{\mathbb{g}}_{33}}{\partial\mathbb{q}}^{1}},\frac{\partial\bar{\mathbb{g}}_{33}}{\partial\mathbb{q}}^{2}}$, we have:
+
+...
 
 
 
