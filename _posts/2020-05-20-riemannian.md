@@ -118,10 +118,22 @@ $$g_{mn} = \begin{pmatrix}
 $$\bar{\mathbb{g}}_{ij} = \begin{pmatrix}
 1 & 0 \\
 0 & r^2 
-\end{pmatrix}, \bar{\mathbb{g}}^{ij}\begin{pmatrix}
+\end{pmatrix},\quad \bar{\mathbb{g}}^{ij} = \begin{pmatrix}
 1 & 0 \\
 0 & r^{-2} 
 \end{pmatrix}$$
+
+All the unbarred Christoffel symbols vanish and in the barred set of coordinates:
+
+$$\overline{\left[22,1\right]} = -r, \quad \overline{\left[21,2\right]} = \overline{\left[12,2\right]} = r \\ \overline{{1\choose{22}}} = -r, \quad \overline{{2\choose{12}}} = \overline{{2\choose{21}}} = \frac{1}{r}$$
+
+and all other terms vanish.
+
+The components of the acceleration vector are given by:
+
+$$\bar{\mathbb{a}}^1 = \ddot{r} = r\dot{\theta}^2 \\ \bar{\mathbb{a}}^2 = \ddot{\theta}} + 2\frac{\dot{r}\dot{\theta}}{r}$$
+
+Another example is ...
 
 
 
