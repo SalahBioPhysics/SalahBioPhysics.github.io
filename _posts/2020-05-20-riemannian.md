@@ -104,7 +104,9 @@ Now we can write the contravariant components of a vector as:
 
 $$a^l \equiv \ddot{q}^l + {l\choose{rs}} \dot{q}^r \dot{q}^s$$
 
-In cartesian coordinates all the Christoffel symblos vanish because the $g_{mn}$ are constant. 
+In cartesian coordinates all the Christoffel symblos vanish because the $g_{mn}$ are constant. In curvilinear coordonates the terms involving the Christoffel symbols give exactly such terms as the centripetal and Coriolis accelerations.  For example, the transformation  from retangular cartesian coordinates in two dimensions $\left(q^1 = x, q^2 = y\right)$ to polar coordinates $\left(\bar{\mathbb{q}}^1 = r, \bar{\mathbb{q}}^2 = \theta \right)$.
+
+
 
 
 
