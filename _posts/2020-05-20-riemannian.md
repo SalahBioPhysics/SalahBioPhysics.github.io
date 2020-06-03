@@ -148,7 +148,7 @@ $$\bar{\mathbb{g}}_{mn} = \begin{pmatrix}
 0 & 0 & r^{-2}\csc^2{\theta}
 \end{pmatrix}$$
 
-The only nonvanishing Christoffel symbols are those involving $\frac{\partial\bar{\mathbb{g}}_{22}}{\partial\bar{\mathbb{q}}^1}, \frac{\partial\bar{\mathbb{g}}_{33}}{\partial\bar{\mathbb{q}}^1}$, we have:
+The only nonvanishing Christoffel symbols are those involving $\frac{\partial\bar{\mathbb{g}}_{22}}{\partial\bar{\mathbb{q}}^1}$, we have:
 
 ...
 
