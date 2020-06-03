@@ -106,6 +106,15 @@ $$a^l \equiv \ddot{q}^l + {l\choose{rs}} \dot{q}^r \dot{q}^s$$
 
 In cartesian coordinates all the Christoffel symblos vanish because the $g_{mn}$ are constant. In curvilinear coordonates the terms involving the Christoffel symbols give exactly such terms as the centripetal and Coriolis accelerations.  For example, the transformation  from retangular cartesian coordinates in two dimensions $\left(q^1 = x, q^2 = y\right)$ to polar coordinates $\left(\bar{\mathbb{q}}^1 = r, \bar{\mathbb{q}}^2 = \theta \right)$.
 
+$$ds^2 = g_{mn}dq^mdq^n = \bar{\mathbb{g}}_{mn}d\bar{\mathbb{q}}^md\bar{\mathbb{q}}^n$$
+
+with:
+
+$$\begin{pmatrix}
+1 & 2 & 3\\
+a & b & c
+\end{pmatrix}$$
+
 
 
 
