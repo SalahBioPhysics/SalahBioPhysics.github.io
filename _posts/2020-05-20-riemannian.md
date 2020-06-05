@@ -150,7 +150,7 @@ $$\bar{\mathbb{g}}_{mn} = \begin{pmatrix}
 
 The only nonvanishing Christoffel symbols are those involving, we have:
 
-
+$$\overline{\left[22,1\right]} = -r \quad \quad \quad \overline{1\choose{22}} \\ \overline{\left[12,2\right]} = \overline{\left[21,2\right]} = -r \quad \quad \quad \overline{2\choose{12}} = \overline{2\choose{21}} = \frac{1}{r}$$
 
 ...
 
