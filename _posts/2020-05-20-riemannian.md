@@ -9,6 +9,8 @@ image: /img/standard.jpg
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:0px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg tr{border-color:black;border-style:solid;border-width:0px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:0px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
