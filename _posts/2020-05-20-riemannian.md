@@ -136,7 +136,7 @@ $$\bar{\mathbb{a}}^1 = \ddot{r} = r\dot{\theta}^2 \\ \bar{\mathbb{a}}^2 = \ddot{
 
 If spherical coordinates $\bar{\mathbb{q}}^1 = r, \bar{\mathbb{q}}^2 = \theta, \bar{\mathbb{q}}^3 = \phi$ are introduced to describe the motion of a particle in three dimensions:
 
-$$ds^2 = dr^2 + r^2d\theta^2 + r^2/sin^2{\theta}d\phi^2$$
+$$ds^2 = dr^2 + r^2d\theta^2 + r^2\sin^2{\theta}d\phi^2$$
 
 $$\bar{\mathbb{g}}_{mn} = \begin{pmatrix}
 1 & 0 & 0\\
@@ -150,7 +150,8 @@ $$\bar{\mathbb{g}}_{mn} = \begin{pmatrix}
 
 The only nonvanishing Christoffel symbols are those involving, we have:
 
-$$\overline{\left[22,1\right]} = -r \quad \quad \quad \overline{1\choose{22}} \\ \overline{\left[12,2\right]} = \overline{\left[21,2\right]} = -r \quad \quad \quad \overline{2\choose{12}} = \overline{2\choose{21}} = \frac{1}{r}$$
+$$\overline{\left[22,1\right]} = -r \quad \overline{1\choose{22}} = -r \\ \overline{\left[12,2\right]} = \overline{\left[21,2\right]} = -r \quad  \overline{2\choose{12}} = \overline{2\choose{21}} = \frac{1}{r} \\
+\overline{\left[33,1\right]} = -r\sin^2{\theta} \quad \overline{1\choose{33}} = -r\sin^2{\theta}$$
 
 ...
 
