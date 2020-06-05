@@ -151,15 +151,15 @@ $$\bar{\mathbb{g}}_{mn} = \begin{pmatrix}
 The only nonvanishing Christoffel symbols are those involving, we have:
 
 <table border='0'>
-  <tr>
-    <td>100</td>
-    <td>200</td>
-    <td>300</td>
+  <tr border: none>
+    <td border: none>100</td>
+    <td border: none>200</td>
+    <td border: none>300</td>
   </tr>
-  <tr>
-    <td>400</td>
-    <td>500</td>
-    <td>600</td>
+  <tr border: none>
+    <td border: none>400</td>
+    <td border: none>500</td>
+    <td border: none>600</td>
   </tr>
 </table>
 
