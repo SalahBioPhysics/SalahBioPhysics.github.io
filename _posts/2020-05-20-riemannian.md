@@ -5,6 +5,14 @@ comments: true
 title: Riemannian Geometry
 image: /img/standard.jpg
 ---
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:0px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:0px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
 
 The need for riemannian geometry arises from the fact that there does not always exist a system of coordinates in 
 terms of which the distance between any two neighboring points in the space is given by the sum of the squares of the 
@@ -150,16 +158,16 @@ $$\bar{\mathbb{g}}_{mn} = \begin{pmatrix}
 
 The only nonvanishing Christoffel symbols are those involving, we have:
 
-<table border='0'>
-  <tr border: none>
-    <td border: none>100</td>
-    <td border: none>200</td>
-    <td border: none>300</td>
+<table class="tg">
+  <tr>
+    <td>100</td>
+    <td>200</td>
+    <td>300</td>
   </tr>
   <tr border: none>
-    <td border: none>400</td>
-    <td border: none>500</td>
-    <td border: none>600</td>
+    <td>400</td>
+    <td>500</td>
+    <td>600</td>
   </tr>
 </table>
 
