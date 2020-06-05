@@ -150,7 +150,7 @@ $$\bar{\mathbb{g}}_{mn} = \begin{pmatrix}
 
 The only nonvanishing Christoffel symbols are those involving, we have:
 
-<table>
+<table border='0'>
   <tr>
     <td>100</td>
     <td>200</td>
