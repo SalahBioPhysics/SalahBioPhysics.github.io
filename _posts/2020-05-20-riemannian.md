@@ -150,6 +150,20 @@ $$\bar{\mathbb{g}}_{mn} = \begin{pmatrix}
 
 The only nonvanishing Christoffel symbols are those involving, we have:
 
+<table>
+  <tr>
+    <td>100</td>
+    <td>200</td>
+    <td>300</td>
+  </tr>
+  <tr>
+    <td>400</td>
+    <td>500</td>
+    <td>600</td>
+  </tr>
+</table>
+
+
 $$\overline{\left[22,1\right]} = -r \quad \overline{1\choose{22}} = -r \\ \overline{\left[12,2\right]} = \overline{\left[21,2\right]} = -r \quad  \overline{2\choose{12}} = \overline{2\choose{21}} = \frac{1}{r} \\
 \overline{\left[33,1\right]} = -r\sin^2{\theta} \quad \overline{1\choose{33}} = -r\sin^2{\theta}$$
 
