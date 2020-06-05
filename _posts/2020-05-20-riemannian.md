@@ -169,7 +169,7 @@ The only nonvanishing Christoffel symbols are those involving, we have:
   <tr border: none>
     <td>400</td>
     <td>500</td>
-    <td>600</td>
+    <td>65200</td>
   </tr>
 </table>
 
