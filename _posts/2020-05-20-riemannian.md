@@ -5,16 +5,6 @@ comments: true
 title: Riemannian Geometry
 image: /img/standard.jpg
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:0px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg tr{border-color:black;border-style:solid;border-width:0px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:0px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 
 The need for riemannian geometry arises from the fact that there does not always exist a system of coordinates in 
 terms of which the distance between any two neighboring points in the space is given by the sum of the squares of the 
@@ -164,7 +154,7 @@ The only nonvanishing Christoffel symbols are those involving, we have:
 
 
 $$\overline{\left[22,1\right]} = -r \qquad \overline{1\choose{22}} = -r \\ \overline{\left[12,2\right]} = \overline{\left[21,2\right]} = -r \qquad  \overline{2\choose{12}} = \overline{2\choose{21}} = \frac{1}{r} \\
-\overline{\left[33,1\right]} = -r\sin^2{\theta} \qqquad \overline{1\choose{33}} = -r\sin^2{\theta}$$
+\overline{\left[33,1\right]} = -r\sin^2{\theta} \qquad \overline{1\choose{33}} = -r\sin^2{\theta}$$
 
 ...
 
