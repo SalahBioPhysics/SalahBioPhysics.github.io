@@ -148,13 +148,17 @@ $$\bar{\mathbb{g}}_{mn} = \begin{pmatrix}
 0 & 0 & r^{-2}\csc^2{\theta}
 \end{pmatrix}$$
 
-The only nonvanishing Christoffel symbols are those involving, we have:
+The only nonvanishing Christoffel symbols are:
 
 
 
 
-$$\overline{\left[22,1\right]} = -r \qquad \overline{1\choose{22}} = -r \\ \overline{\left[12,2\right]} = \overline{\left[21,2\right]} = -r \qquad  \overline{2\choose{12}} = \overline{2\choose{21}} = \frac{1}{r} \\
-\overline{\left[33,1\right]} = -r\sin^2{\theta} \qquad \overline{1\choose{33}} = -r\sin^2{\theta}$$
+$$\overline{\left[22,1\right]} = -r \qquad, \overline{1\choose{22}} = -r \\ 
+\overline{\left[12,2\right]}=\overline{\left[21,2\right]} = -r, \qquad \overline{2\choose{12}} = \overline{2\choose{21}} = \frac{1}{r}\\
+\overline{\left[33,1\right]} = -r\sin^2{\theta}, \qquad \overline{1\choose{33}} = -r\sin^2{\theta} \\
+\overline{\left[13,3\right]} = \overline{\left[31,3\right]} = r\sin^2{\theta}, \qquad \overline{3\choose{13}} = \overline{3\choose{31}}=\frac{1}{r} \\
+\overline{\left[33,2\right]} = -r^2\sin{\theta}\cos{\theta}, \qquad \overline{2\choose{33}} = -\sin{\theta}\cos{\theta} \\
+\overline{\left[23,3\right]} = \overline{\left[32,3\right]} = r^2\sin{\theta}\cos{\theta}, \qquad \overline{3\choose{23}} = \overline{3\choose{32}} = \cot{\theta}$$
 
 ...
 
