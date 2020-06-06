@@ -160,9 +160,7 @@ $$\overline{\left[22,1\right]} = -r, \qquad \overline{1\choose{22}} = -r \\
 \overline{\left[33,2\right]} = -r^2\sin{\theta}\cos{\theta}, \qquad \overline{2\choose{33}} = -\sin{\theta}\cos{\theta} \\
 \overline{\left[23,3\right]} = \overline{\left[32,3\right]} = r^2\sin{\theta}\cos{\theta}, \qquad \overline{3\choose{23}} = \overline{3\choose{32}} = \cot{\theta}$$
 
-Using the contravariant components of a vector, we get:
-
-$$\bar{\mathbb{a}}^1 = \ddot{r} - r\dot{\theta}^2 - r\sin^2{\theta} \dot{\phi}^2$$
+*** This post is taken from APPENDIS 1 (Classical Mechanics, 2nd Edition.  H.C. Corben and Philip Stehle)
 
 
 
