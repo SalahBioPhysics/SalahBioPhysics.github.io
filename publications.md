@@ -23,8 +23,8 @@ subtitle:
   </tr>
  
   <tr>
-    <td class="tg-0pky" width="30%"><a href="https://www.biorxiv.org/content/10.1101/291922v1"><img src="/img/p2.png" alt="V4"></a></td>
-    <td class="tg-0pky" width="70%"><b>Functional Pathways of Biomolecules Retrieved from Single-particle Snapshots<br>pre-print</b></td>
+    <td class="tg-0pky" width="30%"><a href="https://www.nature.com/articles/s41467-020-18403-x"><img src="/img/p2.png" alt="V4"></a></td>
+    <td class="tg-0pky" width="70%"><b>Functional Pathways of Biomolecules Retrieved from Single-particle Snapshots<br>Nature Communications volume 11, Article number: 4734 (2020)</b></td>
   </tr>
 
 
