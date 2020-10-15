@@ -21,6 +21,7 @@ Finite difference methods seek to find numerical solutions to partial diffferent
   <tr>
     <img src="/img/mol_1.png" alt="p1">
   </tr>
+ </table>
 
 (/img/mol_1.png)
 
