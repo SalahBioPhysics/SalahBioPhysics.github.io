@@ -19,7 +19,7 @@ Finite difference methods seek to find numerical solutions to partial diffferent
 
 <table class="tg">
   <tr>
-    <img src="/img/mol_1.png" alt="p1"; width:400px; height:400px>
+    <img src="/img/mol_1.png" alt="p1">
   </tr>
  </table>
 
