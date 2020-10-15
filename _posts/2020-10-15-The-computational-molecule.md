@@ -19,7 +19,7 @@ Finite difference methods seek to find numerical solutions to partial diffferent
 
 <table class="tg">
   <tr>
-    <th class="tg-0pky">Afatinib<img src="/img/mol_1.png" alt="p1"></th>
+    <img src="/img/mol_1.png" alt="p1">
   </tr>
 
 (/img/mol_1.png)
@@ -27,7 +27,7 @@ Finite difference methods seek to find numerical solutions to partial diffferent
 
 
 
-** This post is taken from APPENDIX B (Introduction to Partial Differential Equations and Hilbert Space Methods, 3nd Edition. Karl E. Gustafson)
+** APPENDIX B (Introduction to Partial Differential Equations and Hilbert Space Methods, 3nd Edition. Karl E. Gustafson)
 
 
 
