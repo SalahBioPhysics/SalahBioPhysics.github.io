@@ -35,7 +35,8 @@ $$\Delta u = 0 & \text{in} \Omega \\
 
 We can use the finite difference ferences method by replacing the partial derivatives by thier approximating the difference quotiets as follow:
 
-$$]\frac{\partial{u{(x,y)}}}{\partial{x}} \approx \frac{u(x+h,y)-u(x,y)}{h}$$,
+$$\frac{\partial{u{(x,y)}}}{\partial{x}} \approx \frac{u(x+h,y)-u(x,y)}{h}$$,
+
 $$\frac{\partial^2{u{x,y}}}{\partial{x^2}} \approx \frac{\frac{u(x+h,y)-u(x,y)}{h}-frac{u(x,y)-u(x-h,y)}{h}}{h}$$
 
 
