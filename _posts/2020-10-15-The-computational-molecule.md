@@ -39,6 +39,15 @@ $$\frac{\partial{u{(x,y)}}}{\partial{x}} \approx \frac{u(x+h,y)-u(x,y)}{h}$$
 
 $$\frac{\partial^2{u(x,y)}}{\partial{x^2}} \approx \frac{\frac{u(x+h,y)-u(x,y)}{h}\frac{u(x,y)-u(x-h,y)}{h}}{h}$$
 
+Taking a single forward difference and the second derivative, we have:
+
+$$\frac{\partial^2{u(x,y)}}{\partial{y^2}} \approx \frac{u(x,y+k) -2u(x,y) + u(x,y-k)}{k^2}$$
+
+Setting $$k=h$$ and solving the equation, we have:
+
+$$0 = \Delta{u} \approx = u(x+h,y) + u(x-h,y) + u(x,y+k) + u(x,y-k) - 4u(x,y)$$
+
+Now the boundray value problem has reduced to a problem in the matrix form:
 
 
 
