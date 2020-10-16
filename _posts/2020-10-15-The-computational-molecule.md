@@ -30,8 +30,8 @@ We can illustrate this by the following simple value problem,
 
 \begin{equation}
   \begin{cases}
-    \Delta u = 0 & in \Omega \\
-    u = f & on \partial{\Omega}
+    \Delta u = 0 & \text{in} \Omega \\
+    u = f & \text{on} \partial{\Omega}
   \end{cases}
 \end{equation}
 
