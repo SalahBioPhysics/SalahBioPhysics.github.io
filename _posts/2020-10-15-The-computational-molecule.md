@@ -28,12 +28,17 @@ Let $$u(x,y)$$ be the temperature $$f$$ at the point $$(x,y)$$ and let $$f$$ be 
 
 We can illustrate this by the following simple value problem,
 
-\begin{equation}
-  \begin{cases}
-    \Delta u = 0 & \text{in} \Omega \\
-    u = f & \text{on} \partial{\Omega}
-  \end{cases}
-\end{equation}
+
+$$\Delta u = 0 & \text{in} \Omega \\
+    u = f & \text{on} \partial{\Omega}$$
+ 
+
+We can use the finite difference ferences method by replacing the partial derivatives by thier approximating the difference quotiets as follow:
+
+$$]\frac{\partial{u{(x,y)}}}{\partial{x}} \approx \frac{u(x+h,y)-u(x,y)}{h}$$,
+$$\frac{\partial^2{u{x,y}}}{\partial{x^2}} \approx \frac{\frac{u(x+h,y)-u(x,y)}{h}-frac{u(x,y)-u(x-h,y)}{h}}{h}$$
+
+
 
 
 
