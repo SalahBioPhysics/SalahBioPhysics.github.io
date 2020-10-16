@@ -63,7 +63,7 @@ u(1,1) \\ u(1,2) \\ u(2,1) \\ u(2,2)
 \end{pmatrix}
 $$
 which has the solution 
-$u(1,1) = \frac{11}{24}, & u(1,2) = \frac{4}{24}, & u(2,1) = \frac{16}{24}, & u(2,2) = \frac{5}{24}$
+$$u(1,1) = \frac{11}{24}, & u(1,2) = \frac{4}{24}, & u(2,1) = \frac{16}{24}, & u(2,2) = \frac{5}{24}$$
 
 From the implementation point of view we have,
 
