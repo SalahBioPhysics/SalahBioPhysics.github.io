@@ -23,7 +23,7 @@ Finite difference methods seek to find numerical solutions to partial diffferent
   </tr>
  </table>
 
-(/img/mol_1.png)
+
 
 
 
