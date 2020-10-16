@@ -55,6 +55,12 @@ $$\begin{pmatrix}
 -1 & 0 & 4 & -1 \\
 0 & -1 & -1 & 4
 \end{pmatrix}
+\begin{pmatrix} 
+u(1,1) \\ u(1,2) \\ u(2,1) \\ u(2,2)
+\end{pmatrix} = 
+\begin{pmatrix} 
+1 \\ 0 \\ 2 \\ 0
+\end{pmatrix}
 $$
 
 
