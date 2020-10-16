@@ -37,7 +37,7 @@ We can use the finite difference ferences method by replacing the partial deriva
 
 $$\frac{\partial{u{(x,y)}}}{\partial{x}} \approx \frac{u(x+h,y)-u(x,y)}{h}$$
 
-$$\frac{\partial^2{u{x,y}}}{\partial{x^2}} \approx \frac{\frac{u(x+h,y)-u(x,y)}{h}\frac{u(x,y)-u(x-h,y)}{h}}{h}$$
+$$\frac{\partial^2{u(x,y)}}{\partial{x^2}} \approx \frac{\frac{u(x+h,y)-u(x,y)}{h}\frac{u(x,y)-u(x-h,y)}{h}}{h}$$
 
 
 
