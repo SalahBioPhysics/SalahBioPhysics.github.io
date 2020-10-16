@@ -28,7 +28,9 @@ Let $$u(x,y)$$ be the temperature $$f$$ at the point $$(x,y)$$ and let $$f$$ be 
 
 We can illustrate this by the following simple value problem,
 
-$$\Bigg\{{\delta u = 0 in \Omega \\ u = f on \partial{\Omega}}$$
+\begin{equation}
+\Bigg\{\delta u = 0 in \Omega \\ u = f on \partial{\Omega}
+\end{equation}
 
 
 
