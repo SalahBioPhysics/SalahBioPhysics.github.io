@@ -3,7 +3,7 @@ layout: post
 mathjax: true
 comments: true
 title: The Computational Molecule
-image: /img/standard.jpg
+image: /img/mol_2.png
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -26,11 +26,13 @@ Finite difference methods seek to find numerical solutions to partial diffferent
 Let $$u(x,y)$$ be the temperature $$f$$ at the point $$(x,y)$$ and let $$f$$ be zero on three sides, that is, $$f(0,0) = f(0,1) = f(0,2) = f(0,3) = f(1,3) = f(2,3) = f(3,3)
 = f(3,2) = f(3,1) = f(3,0) = 0$$ and let, $$f(1,0) = 1$$ and $$f(2,0) = 2$$.  Now we want to estimate the temperature $$u(1,1), u(1,2), u(2,1)$$, and $$u(2,2)$$
 
+We can illustrate this by the following simple value problem,
+
+$$\Bigg{\delta u = 0 in \Omega \\ u = f on \patrial\Omega$$
 
 
 
-
-** APPENDIX B (Introduction to Partial Differential Equations and Hilbert Space Methods, 3nd Edition. Karl E. Gustafson)
+** APPENDICE B (Introduction to Partial Differential Equations and Hilbert Space Methods, 3nd Edition. Karl E. Gustafson)
 
 
 
