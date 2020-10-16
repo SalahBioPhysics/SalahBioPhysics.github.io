@@ -29,7 +29,7 @@ Let $$u(x,y)$$ be the temperature $$f$$ at the point $$(x,y)$$ and let $$f$$ be 
 We can illustrate this by the following simple value problem,
 
 \begin{equation}
-\Bigg\{\delta u = 0
+\delta u = 0
 \end{equation}
 
 
