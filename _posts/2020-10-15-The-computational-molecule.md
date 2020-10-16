@@ -49,7 +49,19 @@ $$0 = \Delta{u} \approx = u(x+h,y) + u(x-h,y) + u(x,y+k) + u(x,y-k) - 4u(x,y)$$
 
 Now the boundray value problem has reduced to a problem in the matrix form:
 
-
+$$\begin{pmatrix}
+4 & -1 & -1 & 0\\
+-1 & 4 & 0 & -1 \\
+-1 & 0 & 4 & -1 \\
+0 & -1 & -1 & 4
+\end{pmatrix}
+\begin{pmatrix} 
+u(1,1) \\ u(1,2) \\ u(2,1) \\ u(2,2)
+\end{pmatrix} = 
+\end{pmatrix}
+\begin{pmatrix} 
+1 \\ 0 \\ 2 \\ 0
+\end{pmatrix}$$
 
 
 
