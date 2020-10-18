@@ -64,7 +64,7 @@ u(1,1) \\ u(1,2) \\ u(2,1) \\ u(2,2)
 $$
 which has the solution 
 
-$$u(1,1) = \frac{11}{24}  u(1,2) = \frac{4}{24}  u(2,1) = \frac{16}{24}  u(2,2) = \frac{5}{24}$$
+$$u(1,1) = \frac{11}{24},  u(1,2) = \frac{4}{24},  u(2,1) = \frac{16}{24},  u(2,2) = \frac{5}{24}$$
 
 From the implementation point of view we have,
 
@@ -84,7 +84,7 @@ $$
 
 here we shifted the notation $$u_{i,j}$$ to denote the $$ith$$ row and the $$jth$$ column of the grid in the following figure
 
-
+<img src="/img/mol_3.png" alt="p1">
 
 
 ** APPENDICE B (Introduction to Partial Differential Equations and Hilbert Space Methods, 3nd Edition. Karl E. Gustafson)
