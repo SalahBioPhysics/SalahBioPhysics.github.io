@@ -84,7 +84,11 @@ $$
 
 here we shifted the notation $$u_{i,j}$$ to denote the $$ith$$ row and the $$jth$$ column of the grid in the following figure
 
-<img src="/img/mol_3.png" alt="p1">
+<table class="tg">
+  <tr>
+    <img src="/img/mol_3.png" alt="p1">
+  </tr>
+ </table>
 
 
 ** APPENDICE B (Introduction to Partial Differential Equations and Hilbert Space Methods, 3nd Edition. Karl E. Gustafson)
