@@ -90,6 +90,16 @@ here we shifted the notation $$u_{i,j}$$ to denote the $$ith$$ row and the $$jth
   </tr>
  </table>
 
+When a numerical scheme is being finalized for implementation capital letters U are often used to denote the discretized solution as contrasted to the use of lower case letters for the analutic solution u. The stencil of this method is the following graph, this is called the five-point stencil for discretizing the Laplacian $$\Delta$$.
+
+<table class="tg">
+  <tr>
+    <img src="/img/mol_2.png" alt="p1">
+  </tr>
+ </table>
+ 
+ It catalogues which points are used in the scheme. 
+ 
 
 ** APPENDICE B (Introduction to Partial Differential Equations and Hilbert Space Methods, 3nd Edition. Karl E. Gustafson)
 
