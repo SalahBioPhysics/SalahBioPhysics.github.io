@@ -97,7 +97,7 @@ When a numerical scheme is being finalized for implementation capital letters U 
   </tr>
  </table>
  
- By including more points in the averaging, one can obtain higher-order approximations to $$u$$, but at a higher cost in computing time. 
+ By including more points in the averaging, one can obtain higher-order approximations to $$u$$, but at a higher cost in computing time. Five-point stencils are used for second order elliptic partial differential equations. The accuracy of a scheme, usually given in terms of an error ($$O(h^n)$$) where $$h$$ is the grid spacing.  This can be determined from a Taylor series expansion.
  
 
 ** APPENDICE B (Introduction to Partial Differential Equations and Hilbert Space Methods, 3nd Edition. Karl E. Gustafson)
