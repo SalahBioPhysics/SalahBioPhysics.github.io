@@ -29,8 +29,8 @@ Let $$u(x,y)$$ be the temperature $$f$$ at the point $$(x,y)$$ and let $$f$$ be 
 We can illustrate this by the following simple value problem,
 
 
-$$\Delta u = 0 & \text{in} \Omega \\
-    u = f & \text{on} \partial{\Omega}$$
+$$\Delta u = 0 & \text{in} \Omega $$
+$$u = f & \text{on} \partial{\Omega}$$
  
 
 We can use the finite difference ferences method by replacing the partial derivatives by thier approximating the difference quotiets as follow:
