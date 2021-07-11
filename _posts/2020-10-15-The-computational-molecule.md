@@ -114,6 +114,12 @@ from which the algorithm of the scheme is
 
 $$U_{i,j+1} = U_{i,j} + \frac{\Delta t}{(\Delta x)^2}\left[U_{i+1,j}-2U_{i,j}+U_{i-1,j}\right]$$
 
+This scheme is said to be explicit because the solution $U$ on the next $j+1$st level may be explicitly calculated from known values of $U$ on the $j$th level.  Now writing the algorithm as 
+
+$$U_{i,j+1} = (1- 2r)U_{i,j}+r(U_{i+1,j}+U_{i-1,j})$$
+
+reveals the important ratio $r=\Delta t/(\Delta x)^2$
+
 
 
 
