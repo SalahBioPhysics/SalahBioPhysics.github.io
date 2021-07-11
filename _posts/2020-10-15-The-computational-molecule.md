@@ -118,7 +118,13 @@ This scheme is said to be explicit because the solution $U$ on the next $j+1$st 
 
 $$U_{i,j+1} = (1- 2r)U_{i,j}+r(U_{i+1,j}+U_{i-1,j})$$
 
-reveals the important ratio $r=\Delta t/(\Delta x)^2$
+reveals the important ratio $r=\Delta t/(\Delta x)^2$.
+
+If the ratio $r$ is equal to zero the solution does not advance in time so we can't take it.  However, if the ratio $U_{i,j+1}/U_{i,j}$ exceed 1, the algorithm has a hope of convergence. If we ignore the two-side contributions, the ratio is exactly $(1-2r)^{-1}$. We need to take $r<1/2$ to avoid any divergence. More analysis shows that for
+
+$$0<r\geq 1/2$$
+
+the finite difference solution $U_{i,j}$ converges to the solution $u_{i,j}$ of the differential equation as $\Delta t$ and $\Delta x$ go to zero.
 
 
 
